@@ -37,3 +37,12 @@
 **Link to work:** [Flutter Playground](https://github.com/donwardpeng/Flutter_Playground)
 
 
+### Day 4: March 8, 2019
+##### (Continued on TensorFlow.js Project)
+
+**Today's Progress**: Refactored the array that I was using for the tf.predict method to be a tensor. Also tested out the model using an tensor consisting of all 1's. Worked on the JavaScript to collect data for the model.
+
+**Thoughts:** I have a better understanding of tensors and with the most recent TensorFlow Dev Summit, having been able to get a better idea of how TensorFlow.js fits into the entire ecosystem.
+
+**Link to work:** [Flutter Playground](https://github.com/donwardpeng/Flutter_Playground)
+
