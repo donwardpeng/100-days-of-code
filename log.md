@@ -44,5 +44,15 @@
 
 **Thoughts:** I have a better understanding of tensors and with the most recent TensorFlow Dev Summit, having been able to get a better idea of how TensorFlow.js fits into the entire ecosystem.
 
+**Link to work:** [No Link Yet]()
+
+
+### Day 5: March 9, 2019
+##### (Continued on Flutter Project)
+
+**Today's Progress**: Added the Product Image to the Product Details page. Learned how to overide the back buttons on the Product's Page. Added a login screen to the app, and used the Navigator push_replacement method to remove the login screen from the stack. 
+
+**Thoughts:** Learned more screen control and app flow code today. 
+
 **Link to work:** [Flutter Playground](https://github.com/donwardpeng/Flutter_Playground)
 
