@@ -56,3 +56,12 @@
 
 **Link to work:** [Flutter Playground](https://github.com/donwardpeng/Flutter_Playground)
 
+### Day 6: March 10, 2019
+##### (Continued on Flutter Project)
+
+**Today's Progress**: Learned about and added a Hero Animation. Refactored the Add Image button to a FAB. Started to figure out animations and planning ahead for animations on the product details page. 
+
+**Thoughts:** Learned a bit about animations today - need to learn more tomorrow
+
+**Link to work:** [Flutter Playground](https://github.com/donwardpeng/Flutter_Playground)
+
