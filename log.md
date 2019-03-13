@@ -65,3 +65,16 @@
 
 **Link to work:** [Flutter Playground](https://github.com/donwardpeng/Flutter_Playground)
 
+### Day 7: March 11, 2019
+##### (Day Off - Wife's Birthday and we got a new puppy.)
+
+** Day Off
+
+### Day 7: March 12, 2019
+##### (Continued on Flutter Project)
+
+**Today's Progress**: Added username and password fields to the app. Used the ObscureField property of the TextField to create a password field. Still need to figure out how to add the password lock icon beside the password field without the row blowing up. 
+
+**Thoughts:** Need to dig deeper in how to manage width of widgets in a row.
+
+**Link to work:** [Flutter Playground](https://github.com/donwardpeng/Flutter_Playground)
