@@ -78,3 +78,15 @@
 **Thoughts:** Need to dig deeper in how to manage width of widgets in a row.
 
 **Link to work:** [Flutter Playground](https://github.com/donwardpeng/Flutter_Playground)
+
+
+### Day 8: March 13, 2019
+##### (Continued on Flutter Project)
+
+**Today's Progress**: Fixed issues with the row blowing up and added the password visibility button with full functionality for it on the login screen. 
+
+**Thoughts:** The row widget in Flutter evaluates all of it's children to determine who fits where. By wrapping any variable sized elements in a Expanded Widget they are forced to take on the available space only and not cause the row to blow-up.
+
+**Link to work:** [Flutter Playground](https://github.com/donwardpeng/Flutter_Playground)
+
+
