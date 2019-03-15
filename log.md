@@ -90,3 +90,13 @@
 **Link to work:** [Flutter Playground](https://github.com/donwardpeng/Flutter_Playground)
 
 
+### Day 9: March 14, 2019
+##### (Continued on Flutter Project)
+
+**Today's Progress**: Added a navigation drawer, added another Hero image and integrated Firebase in the iOS app. 
+
+**Thoughts:** Learned that the Navigator.pushReplacement method to change screens does not support Hero animations. Also learned how to add Firebase Integration to an iOS app in Flutter. 
+
+**Link to work:** [Flutter Playground](https://github.com/donwardpeng/Flutter_Playground)
+
+
