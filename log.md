@@ -99,4 +99,22 @@
 
 **Link to work:** [Flutter Playground](https://github.com/donwardpeng/Flutter_Playground)
 
+### Day 10: March 15, 2019
+##### (Continued on Flutter Project)
+
+**Today's Progress**: Started to integrate Firebase Analytics into Flutter. Followed the instructions, but ran into issue somewhere along the line since nothing is showing up yet. 
+
+**Thoughts:** The Firebase docs for Flutter can somewhat difficult to follow. One pitfall of using a cross-platform development platform like Flutter is that sometimes you need to know a bit of the underlying platform. 
+
+**Link to work:** [Flutter Playground](https://github.com/donwardpeng/Flutter_Playground)
+
+### Day 11: March 16, 2019
+##### (Continued on Flutter Project)
+
+**Today's Progress**: Continued to work with Firebase Analytics. Analytics appears if I build the project in XCode, although it is still wonky. Learning a bunch about packages in Flutter. Next steps -> rebuild the project from scratch since I probably messed up some config file. I will copy over my existing code to the new project.  
+
+**Thoughts:** The Firebase docs for Flutter can somewhat difficult to follow. One pitfall of using a cross-platform development platform like Flutter is that sometimes you need to know a bit of the underlying platform. 
+
+**Link to work:** [Flutter Playground](https://github.com/donwardpeng/Flutter_Playground)
+
 
