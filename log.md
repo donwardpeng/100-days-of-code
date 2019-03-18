@@ -118,3 +118,12 @@
 **Link to work:** [Flutter Playground](https://github.com/donwardpeng/Flutter_Playground)
 
 
+### Day 12: March 17, 2019
+##### (Continued on Flutter Project)
+
+**Today's Progress**: Started a new Flutter project with Firebase analytics added, and then added all of my screens and custom files. This made all of the project config work and Firebase analytics works well. Started a new git repo for the project.  
+
+**Thoughts:** Sometimes it is worth restarting with a new project if config settings get messed up - especially if you have the luxury of doing so. I am learning well how Flutter's package system works.
+
+**Link to work:** [Flutter Playground](https://github.com/donwardpeng/Flutter_Playground_v2)
+
