@@ -127,3 +127,9 @@
 
 **Link to work:** [Flutter Playground](https://github.com/donwardpeng/Flutter_Playground_v2)
 
+
+### Day 13: March 18, 2019
+##### (Day off since I presented on TensorFlow to 25 people at the Detroit Google Developers group)
+
+**Link to work:** [TensorFlow Dev Summit Recap for the Detroit Google Developers Group](https://www.meetup.com/Detroit-Google-Developers-Group/events/259505517/Flutter Playground](https://github.com/donwardpeng/Flutter_Playground_v2)
+
