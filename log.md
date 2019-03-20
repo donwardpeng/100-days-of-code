@@ -133,3 +133,13 @@
 
 **Link to work:** [TensorFlow Dev Summit Recap for the Detroit Google Developers Group](https://www.meetup.com/Detroit-Google-Developers-Group/events/259505517/Flutter Playground](https://github.com/donwardpeng/Flutter_Playground_v2)
 
+
+### Day 14: March 18, 2019
+##### (Continued on Flutter Project)
+
+**Today's Progress**: Added a connection to a Firebase Cloud Firestore database. Able to read image data into a Map from a Collection in Firestore. Next steps, use the image data in the app to load images.
+
+**Thoughts:** I have been playing around Cloud Firestore for a few projects and am starting to develop a pattern of creating helper classes with static methods to return Collection data from the database. I need to look around and see if there is a best practice for this.
+
+**Link to work:** [Flutter Playground](https://github.com/donwardpeng/Flutter_Playground_v2)
+
