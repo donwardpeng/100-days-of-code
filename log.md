@@ -145,3 +145,14 @@
 
 ### Day 15: March 19, 2019
 ##### (Day off - planning for an developer software conference)
+
+
+### Day 15: March 20, 2019
+##### (Continued on Flutter Project)
+
+**Today's Progress**: Still working on reading image data from Google Cloud Firestore database and displaying it in an image. Also learned quite a bit about StreamBuilder and streams for a project at work today. I want to incorporate them into this project soon. 
+
+**Thoughts:** Been playing around with setState as well as StreamBuilders in Flutter. Need to do more research into how Streams can be used to communicate events within a Flutter app. 
+
+**Link to work:** [Flutter Playground](https://github.com/donwardpeng/Flutter_Playground_v2)
+
