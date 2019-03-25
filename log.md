@@ -156,12 +156,27 @@
 
 **Link to work:** [Flutter Playground](https://github.com/donwardpeng/Flutter_Playground_v2)
 
-### Day 16: March 21, 2019
+### Day 15: March 21, 2019
+##### (Day Off)
+
+### Day 16: March 22, 2019
 ##### (Continued on Flutter Project)
 
 **Today's Progress**: Added Firebase Push Notifications and tested the basic mechanism. Got the images to load over the network from Cloud Firestore. Started to implement the BLOC pattern. Next steps -> wiring up the Push Notifications to an action and implementing a StreamBuilder. 
 
 **Thoughts:** Still research and working on Streams and StreamBuilders. Surprised how easy it was to add Firebase Push Notifications to the app.
+
+**Link to work:** [Flutter Playground](https://github.com/donwardpeng/Flutter_Playground_v2)
+
+### Day 16: March 23, 2019
+##### (Day Off - Sick)
+
+### Day 17: March 24, 2019
+##### (Continued on Flutter Project)
+
+**Today's Progress**: Added Android Firebase push notifications and it was working. Tested out Android Studio - too much going on for right now - switched back to VS Code. Unfortunately I also broke the build of the push notifications on my Android phone due to a class loader issue with Firebase.  
+
+**Thoughts:** Not much progress today, although I did learn more about Android and iOS push notifications and how to configure them. Broke some stuff, and also learned that Android Studio is complex. Switched bak to VSCode for now.
 
 **Link to work:** [Flutter Playground](https://github.com/donwardpeng/Flutter_Playground_v2)
 
