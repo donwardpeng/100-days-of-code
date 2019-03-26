@@ -180,3 +180,12 @@
 
 **Link to work:** [Flutter Playground](https://github.com/donwardpeng/Flutter_Playground_v2)
 
+### Day 18: March 25, 2019
+##### (Started a new Flutter Project)
+
+**Today's Progress**: Restarted the project from scratch - imported all of the Firebase libraries I needed and scaffolded in the login page and main page. The reason - to fix the issues I had with Firebase Push Notifications earlier on Android. 
+
+**Thoughts:** Need to determine what Firebase libraries have issues with the AndroidX project - most notably, Firebase Auth and ML Kit would not bring down their libraries due to warning about AndroidX.
+ 
+**Link to work:** [My Snooze App](https://github.com/donwardpeng/Flutter_Playground_v2://github.com/donwardpeng/mysnooze)
+
