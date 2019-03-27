@@ -189,3 +189,12 @@
  
 **Link to work:** [My Snooze App](https://github.com/donwardpeng/Flutter_Playground_v2://github.com/donwardpeng/mysnooze)
 
+### Day 19: March 26, 2019
+##### (Started a new Flutter Project)
+
+**Today's Progress**: Finally got push notifications to work on a device in Android - was not using the correct AndroidManifest settings for Flutter push. Also I now better understand Streams/Sinks and the BLoC pattern for apps. Next steps, I will start using it instead of setState() where it makes sense.
+
+**Thoughts:** Streams/Sinks and using StreamBuilder seems like a much cleaner to force updates to the UI when needed. This video by Paolo Soares from Google on the BLoC pattern helped quite a bit: https://youtu.be/PLHln7wHgPE
+ 
+**Link to work:** [My Snooze App](https://github.com/donwardpeng/Flutter_Playground_v2://github.com/donwardpeng/mysnooze)
+
