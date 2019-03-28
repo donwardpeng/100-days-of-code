@@ -198,3 +198,12 @@
  
 **Link to work:** [My Snooze App](https://github.com/donwardpeng/Flutter_Playground_v2://github.com/donwardpeng/mysnooze)
 
+### Day 20: March 27, 2019
+##### (Continuing on a new Flutter Project)
+
+**Today's Progress**: Added a primitive StreamBuilder. Started on a BLoC controller but it does not fully work yet. Combining the BLoC pattern with Streams and Sinks is taking a bit to learn. 
+
+**Thoughts:** I made some more progress understanding Reactive Programming today. Dart's method of doing this is with Streams and Sinks, whereas it appears traditional Reactive Programming uses Observables and Subjects. Ran into a few examples online where they start by explaining Streams and Sinks, but mix in Reative Programming terminolgy. Still working to sort it all out - understanding this is important.
+
+**Link to work:** [My Snooze App](https://github.com/donwardpeng/Flutter_Playground_v2://github.com/donwardpeng/mysnooze)
+
