@@ -207,3 +207,12 @@
 
 **Link to work:** [My Snooze App](https://github.com/donwardpeng/Flutter_Playground_v2://github.com/donwardpeng/mysnooze)
 
+### Day 21: March 28, 2019
+##### (Continuing on a new Flutter Project)
+
+**Today's Progress**: Today I fully implemented the BLoC pattern based on code from here: https://www.didierboelens.com/2018/08/reactive-programming---streams---bloc/. Additionally I totally understand how the Streams are setup, and commented it fully to re-inforce my learning. Next steps, adapt it to controlling the UI in my app. 
+
+**Thoughts:** Finally understand how the BLoC pattern can be implemetned with streams/sinks. To re-inforce my learning, I fully commented the code I grabbed this from.
+
+**Link to work:** [My Snooze App](https://github.com/donwardpeng/Flutter_Playground_v2://github.com/donwardpeng/mysnooze)
+
