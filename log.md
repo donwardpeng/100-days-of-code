@@ -216,3 +216,11 @@
 
 **Link to work:** [My Snooze App](https://github.com/donwardpeng/Flutter_Playground_v2://github.com/donwardpeng/mysnooze)
 
+### Day 22: March 29, 2019
+##### (Continuing on a new Flutter Project)
+
+**Today's Progress**: Added Firebase Authenication to the project. Had to resolve all of the AndroidX issues with the Firebase Authenication Flutter plugin - this required the use of Android Studio (not sure if VS Code can do this). Brought in the Firebase Auth example login page and started hooking up Google, Facebook and Phone Number Auth. Google works, Facebook and Phone Number not yet.
+
+**Thoughts:** Based on the dependency issues I ran into today with AndroidX and Firebase Auth for Flutter I think using Android Studio for developing Flutter apps that leverage Firebase services is the best (perhaps only) way. 
+
+**Link to work:** [My Snooze App](https://github.com/donwardpeng/Flutter_Playground_v2://github.com/donwardpeng/mysnooze)
