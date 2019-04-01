@@ -224,3 +224,21 @@
 **Thoughts:** Based on the dependency issues I ran into today with AndroidX and Firebase Auth for Flutter I think using Android Studio for developing Flutter apps that leverage Firebase services is the best (perhaps only) way. 
 
 **Link to work:** [My Snooze App](https://github.com/donwardpeng/Flutter_Playground_v2://github.com/donwardpeng/mysnooze)
+
+### Day 22.5: March 30, 2019
+##### (Continuing on a new Flutter Project)
+
+**Today's Progress**: Only worked on the project 1/2 hour today due to travel from a conference. Changed the Textfield inputs being used for Username and Password to TextFormField inputs. They function much better - need to add a validator to the Password and Username fields still. 
+
+**Thoughts:** I like the way the TextFormField works better than rolling my Textfield inputs - especially for the Password input fields. 
+
+**Link to work:** [My Snooze App](https://github.com/donwardpeng/Flutter_Playground_v2://github.com/donwardpeng/mysnooze)
+
+### Day 23: March 31, 2019
+##### (Continuing on a new Flutter Project)
+
+**Today's Progress**: Added Sign in with Google and Sign in with Facebook buttons from a plugin in the Flutter repo. Moved the Login with Uername/Password to a new page, and hooked up the Sign in with Google so that it works on Android. Still need to get iOS working with Sign in with Google. Facebook needs to work with both.
+ 
+**Thoughts:** Super impressed with how easy it was to bring in the Sign in with Google/Facebook/Twitter buttons via a plugin. This is the way code should be. The plugin can be found here -> https://pub.dartlang.org/packages/flutter_auth_buttons#-readme-tab
+
+**Link to work:** [My Snooze App](https://github.com/donwardpeng/Flutter_Playground_v2://github.com/donwardpeng/mysnooze)
