@@ -242,3 +242,12 @@
 **Thoughts:** Super impressed with how easy it was to bring in the Sign in with Google/Facebook/Twitter buttons via a plugin. This is the way code should be. The plugin can be found here -> https://pub.dartlang.org/packages/flutter_auth_buttons#-readme-tab
 
 **Link to work:** [My Snooze App](https://github.com/donwardpeng/Flutter_Playground_v2://github.com/donwardpeng/mysnooze)
+
+### Day 24: April 1, 2019
+##### (Continuing on a new Flutter Project)
+
+**Today's Progress**: Got iOS Google login to work. Now both Android and iOS work for Google login. Almost have email/password login working.
+
+**Thoughts:**: Continuing to get Auth working - I like how all of the authenication methods use the same basic mechanism - makes it easy to code them to work.
+
+**Link to work:** [My Snooze App](https://github.com/donwardpeng/Flutter_Playground_v2://github.com/donwardpeng/mysnooze)
