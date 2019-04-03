@@ -252,7 +252,7 @@
 
 **Link to work:** [My Snooze App](https://github.com/donwardpeng/Flutter_Playground_v2://github.com/donwardpeng/mysnooze)
 
-### Day 25: April 1, 2019
+### Day 25: April 2, 2019
 ##### (Continuing on a new Flutter Project)
 
 **Today's Progress**: Completed Email/Password login. Started research on Facebook login integration - this is not as straightforward as I would have thought. 
