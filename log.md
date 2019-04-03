@@ -251,3 +251,12 @@
 **Thoughts:**: Continuing to get Auth working - I like how all of the authenication methods use the same basic mechanism - makes it easy to code them to work.
 
 **Link to work:** [My Snooze App](https://github.com/donwardpeng/Flutter_Playground_v2://github.com/donwardpeng/mysnooze)
+
+### Day 25: April 1, 2019
+##### (Continuing on a new Flutter Project)
+
+**Today's Progress**: Completed Email/Password login. Started research on Facebook login integration - this is not as straightforward as I would have thought. 
+
+**Thoughts:**: I learned that a TextController needs to live inside of a Stateful Widget if you wish to read out it's text value. Additionally, there does not seem to be good documentation on Facebook login integration with Firebase and Flutter. 
+
+**Link to work:** [My Snooze App](https://github.com/donwardpeng/Flutter_Playground_v2://github.com/donwardpeng/mysnooze)
