@@ -260,3 +260,15 @@
 **Thoughts:**: I learned that a TextController needs to live inside of a Stateful Widget if you wish to read out it's text value. Additionally, there does not seem to be good documentation on Facebook login integration with Firebase and Flutter. 
 
 **Link to work:** [My Snooze App](https://github.com/donwardpeng/Flutter_Playground_v2://github.com/donwardpeng/mysnooze)
+
+### Day 25: April 3, 2019
+##### Took a day off
+
+### Day 26: April 4, 2019
+##### (Continuing on a new Flutter Project)
+
+**Today's Progress**: Wired up the login by email and by Google screens to the rest of the app. Working on a snackbar to display on either successful or unsuccessful login. Implemented TextFormField change and focus listeners for the password field.
+
+**Thoughts:**: Started to learn about Snackbar's and listeners. 
+
+**Link to work:** [My Snooze App](https://github.com/donwardpeng/Flutter_Playground_v2://github.com/donwardpeng/mysnooze)
