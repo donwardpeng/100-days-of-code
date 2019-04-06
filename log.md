@@ -272,3 +272,15 @@
 **Thoughts:**: Started to learn about Snackbar's and listeners. 
 
 **Link to work:** [My Snooze App](https://github.com/donwardpeng/Flutter_Playground_v2://github.com/donwardpeng/mysnooze)
+
+### Day 26: April 5, 2019
+##### Took a day off to chase my kids and dog around the yard in the nice weather.
+
+### Day 27: April 6, 2019
+##### (Continuing on a new Flutter Project)
+
+**Today's Progress**: Finished off email/password login fully with error handling. Added success and failure snackbars. Read up on how to use async/await keywords for Futures and how to deal with error catching from Futures.
+ 
+**Thoughts:**: Learned more Futures in Dart. Also learned that handling user authenication and all of the error codes that can be return is a can of worms.
+ 
+**Link to work:** [My Snooze App](https://github.com/donwardpeng/Flutter_Playground_v2://github.com/donwardpeng/mysnooze)
