@@ -293,3 +293,12 @@
 **Thoughts:**: Alot of clean up today. Switched back to VS Code from Android Studio. It seems easier and quicker to use. 
  
 **Link to work:** [My Snooze App](https://github.com/donwardpeng/Flutter_Playground_v2://github.com/donwardpeng/mysnooze)
+
+### Day 29: April 8, 2019
+##### (Continuing on a new Flutter Project)
+
+**Today's Progress**: Messed around with the Bottom Action Bar. Added an Alarm Model and started on a Helper Class to retrieve the values out of Firebase CloudStore. Still needs more work.
+ 
+**Thoughts:**: Pulled in a LatLng library today since I needed to store location in the app. There seems to be a pretty rich library of Flutter plugins for things like this. I need to poke around and look at what is available some more.
+
+**Link to work:** [My Snooze App](https://github.com/donwardpeng/Flutter_Playground_v2://github.com/donwardpeng/mysnooze)
