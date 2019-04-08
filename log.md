@@ -284,3 +284,12 @@
 **Thoughts:**: Learned more Futures in Dart. Also learned that handling user authenication and all of the error codes that can be return is a can of worms.
  
 **Link to work:** [My Snooze App](https://github.com/donwardpeng/Flutter_Playground_v2://github.com/donwardpeng/mysnooze)
+
+### Day 28: April 7, 2019
+##### (Continuing on a new Flutter Project)
+
+**Today's Progress**: Finished off Google sign in. Changed the FAB to a inset in a Bottom App Bar. Started hooking up to data in the Cloud Firestore. 
+
+**Thoughts:**: Alot of clean up today. Switched back to VS Code from Android Studio. It seems easier and quicker to use. 
+ 
+**Link to work:** [My Snooze App](https://github.com/donwardpeng/Flutter_Playground_v2://github.com/donwardpeng/mysnooze)
