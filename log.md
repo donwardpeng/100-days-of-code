@@ -302,3 +302,13 @@
 **Thoughts:**: Pulled in a LatLng library today since I needed to store location in the app. There seems to be a pretty rich library of Flutter plugins for things like this. I need to poke around and look at what is available some more.
 
 **Link to work:** [My Snooze App](https://github.com/donwardpeng/Flutter_Playground_v2://github.com/donwardpeng/mysnooze)
+
+### Day 30: April 9, 2019
+##### (Continuing on a new Flutter Project)
+
+**Today's Progress**: Added an update from Cloud Firestore
+ of the data I need. Cleaned up some code with the main page.
+
+**Thoughts:**: Ran into an issue with pulling location data from Cloud Firestore - turns out Firestore has it's own GeoPoint type in it's plugin.
+
+**Link to work:** [My Snooze App](https://github.com/donwardpeng/Flutter_Playground_v2://github.com/donwardpeng/mysnooze)
