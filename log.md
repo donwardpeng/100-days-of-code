@@ -312,3 +312,12 @@
 **Thoughts:**: Ran into an issue with pulling location data from Cloud Firestore - turns out Firestore has it's own GeoPoint type in it's plugin.
 
 **Link to work:** [My Snooze App](https://github.com/donwardpeng/Flutter_Playground_v2://github.com/donwardpeng/mysnooze)
+
+### Day 31: April 10, 2019
+##### (Continuing on a new Flutter Project)
+
+**Today's Progress**: Added and tested that the collections I am reading from Cloud Firestore are dynamic. Next steps, need to write to Cloud Firestore.
+
+**Thoughts:**: It is like magic, you create a ListView that has a StreamBuilder hooked into a Collection in Cloud Firestore, and as soon as the Collection changes in Cloud Firestore, the ListView updates. 
+
+**Link to work:** [My Snooze App](https://github.com/donwardpeng/Flutter_Playground_v2://github.com/donwardpeng/mysnooze)
