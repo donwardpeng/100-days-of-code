@@ -321,3 +321,12 @@
 **Thoughts:**: It is like magic, you create a ListView that has a StreamBuilder hooked into a Collection in Cloud Firestore, and as soon as the Collection changes in Cloud Firestore, the ListView updates. 
 
 **Link to work:** [My Snooze App](https://github.com/donwardpeng/Flutter_Playground_v2://github.com/donwardpeng/mysnooze)
+
+### Day 32: April 11, 2019
+##### (Continuing on a new Flutter Project)
+
+**Today's Progress**: Detour today -> Started a quick comparison between Flutter and React Native. Started a React Native app and followed the Quick Start. Had to brush up on React a bit (not too much).
+
+**Thoughts:** I can see some similarities between the syntax of React Native and Flutter although I still think the engine that powers the app under the covers in Flutter is better. 
+
+**Link to work:** [React_Native_Playground](https://github.com/donwardpeng/react_native_playground)
