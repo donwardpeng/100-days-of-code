@@ -330,3 +330,16 @@
 **Thoughts:** I can see some similarities between the syntax of React Native and Flutter although I still think the engine that powers the app under the covers in Flutter is better. 
 
 **Link to work:** [React_Native_Playground](https://github.com/donwardpeng/react_native_playground)
+
+### Day 32: April 12, 2019
+##### (Day off)
+
+### Day 33: April 13, 2019
+##### (React and ReactNative learning)
+
+**Today's Progress**: Detour continued: Undertook a refresher/crash course on JavaScript ES2015 and React to better understand how ReactNative works. One more day of working with React and I will have a better idea of how ReactNative works. 
+
+**Thoughts:** I continue to see similarities in the syntax of ReactNative and Flutter although Dart/Flutter seems much cleaner to me, coming from a mobile background. ReactNative must feel like home for web developers, although coming from a mobile development background, Flutter seems like an easier framework to pickup.
+
+**Link to work:** [React_Playground](https://github.com/donwardpeng/react_playground)
+
