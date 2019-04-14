@@ -343,3 +343,12 @@
 
 **Link to work:** [React_Playground](https://github.com/donwardpeng/react_playground)
 
+### Day 34: April 14, 2019
+##### (React and ReactNative learning)
+
+**Today's Progress**: Detour continued: Continued to brush up on React - in particular props, state and components (basically it all).
+ 
+**Thoughts:** Too early for me to tell, but it definitely seems like the syntax in React is much more verbose than what I see in Dart. 
+ 
+**Link to work:** [React_Playground](https://github.com/donwardpeng/react_playground)
+
