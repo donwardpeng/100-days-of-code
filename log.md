@@ -352,3 +352,17 @@
  
 **Link to work:** [React_Playground](https://github.com/donwardpeng/react_playground)
 
+### Day 34: April 15, 2019
+##### (Continuing on a new Flutter Project)
+
+**Today's Progress**: Day off 
+
+### Day 35: April 16, 2019
+##### (Continuing on a new Flutter Project)
+
+**Today's Progress**: Improving the styling of the login screen. Played with background images, fonts, alpha and box decorations. 
+
+**Thoughts**: Following a tutorial on Medium on Flutter app development. It has some good info, although the way they have architected their code, shows that they come from a web background :)  
+
+**Link to work:** [My Snooze App](https://github.com/donwardpeng/Flutter_Playground_v2://github.com/donwardpeng/mysnooze)
+
