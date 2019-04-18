@@ -366,3 +366,12 @@
 
 **Link to work:** [My Snooze App](https://github.com/donwardpeng/Flutter_Playground_v2://github.com/donwardpeng/mysnooze)
 
+### Day 36: April 17, 2019
+##### (Continuing on a new Flutter Project)
+
+**Today's Progress**: Worked on the listview for the main page again - still trying to figure out how to get a GeoPoint out of a Firestore document object"
+
+**Thoughts**: Working through the various options to put together a dynamic ListView. There are definitely a lot of combinations - glad to see that ListViews work as expected - not as they did in the early days of Android where one had to manage recycling of views and viewholders. 
+
+**Link to work:** [My Snooze App](https://github.com/donwardpeng/Flutter_Playground_v2://github.com/donwardpeng/mysnooze)
+
