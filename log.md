@@ -375,3 +375,21 @@
 
 **Link to work:** [My Snooze App](https://github.com/donwardpeng/Flutter_Playground_v2://github.com/donwardpeng/mysnooze)
 
+### Day 37: April 18, 2019
+##### (Continuing on a new Flutter Project)
+
+**Today's Progress**: Needed to switch to some TensorFlow work today - study and working on CNN's and RNN's for some upcoming work I may have. 
+
+**Thoughts**: Long term goal of mixing in a Machine Learning model I train with my Flutter project.
+
+**Link to work:** [My Snooze App](https://github.com/donwardpeng/Flutter_Playground_v2://github.com/donwardpeng/mysnooze)
+
+### Day 38: April 19, 2019
+##### (Continuing on a new Flutter Project)
+
+**Today's Progress**: Continued on TensorFlow work today. Working through CNN's, as well as reviewed the various activations (signmoid, tanh, relu and softmax) out there. 
+
+**Thoughts**: I read that Firebase MLKit is in progress for Flutter - sweet! 
+
+**Link to work:** [My Snooze App](https://github.com/donwardpeng/Flutter_Playground_v2://github.com/donwardpeng/mysnooze)
+
