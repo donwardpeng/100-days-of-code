@@ -393,3 +393,12 @@
 
 **Link to work:** [My Snooze App](https://github.com/donwardpeng/Flutter_Playground_v2://github.com/donwardpeng/mysnooze)
 
+### Day 39: April 20, 2019
+##### (Continuing on a new Flutter Project)
+
+**Today's Progress**: Working to research more Firebase and Flutter integrations I can add to the project. Definitely want to add A/B testing and Remote Config. Started to research and etch in MLKit support also. 
+
+**Thoughts**: Super excited that someone started a MLKit library for Flutter.
+ 
+**Link to work:** [My Snooze App](https://github.com/donwardpeng/Flutter_Playground_v2://github.com/donwardpeng/mysnooze)
+
