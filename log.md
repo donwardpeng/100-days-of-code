@@ -402,3 +402,12 @@
  
 **Link to work:** [My Snooze App](https://github.com/donwardpeng/Flutter_Playground_v2://github.com/donwardpeng/mysnooze)
 
+### Day 40: April 21, 2019
+##### (Continuing on a new Flutter Project)
+
+**Today's Progress**: Added global state to maintain users that are logged in and whether the app is loading up or not. Still need to debug it still. 
+
+**Thoughts**: Needed to go back and maintain state for login, etc. Need to learn more about the InheritedWidget still.  
+
+**Link to work:** [My Snooze App](https://github.com/donwardpeng/Flutter_Playground_v2://github.com/donwardpeng/mysnooze)
+
