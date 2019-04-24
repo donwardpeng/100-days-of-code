@@ -411,3 +411,15 @@
 
 **Link to work:** [My Snooze App](https://github.com/donwardpeng/Flutter_Playground_v2://github.com/donwardpeng/mysnooze)
 
+### Day 40: April 22, 2019
+##### Day off
+ 
+### Day 41: April 23, 2019
+##### (Continuing on a new Flutter Project)
+
+**Today's Progress**: Added logout and login with Google - still need to fix some Snackbar's to indicate successful login 
+
+**Thoughts**: Almost there with the login/logout functionality - having a global state object is helping.
+ 
+**Link to work:** [My Snooze App](https://github.com/donwardpeng/Flutter_Playground_v2://github.com/donwardpeng/mysnooze)
+
