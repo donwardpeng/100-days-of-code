@@ -423,3 +423,12 @@
  
 **Link to work:** [My Snooze App](https://github.com/donwardpeng/Flutter_Playground_v2://github.com/donwardpeng/mysnooze)
 
+### Day 42: April 24, 2019
+##### (Continuing on a new Flutter Project)
+
+**Today's Progress**: Debugged some issues with Login, and rendering the login screens. Added an Alarm Card Widget for the Listview and also added more fields to the Alarm model. 
+
+**Thoughts**: Learned about RawMaterialButtons, BoxedConstraints and the AspectRatio widget. 
+
+**Link to work:** [My Snooze App](https://github.com/donwardpeng/Flutter_Playground_v2://github.com/donwardpeng/mysnooze)
+
