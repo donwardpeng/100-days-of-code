@@ -432,3 +432,21 @@
 
 **Link to work:** [My Snooze App](https://github.com/donwardpeng/Flutter_Playground_v2://github.com/donwardpeng/mysnooze)
 
+### Day 42: April 25, 2019
+##### Day Off - Sick
+
+### Day 42: April 26, 2019
+##### Day Off - Sick
+ 
+### Day 42: April 27, 2019
+##### Day Off - Sick
+ 
+### Day 43: April 28, 2019
+##### (Continuing on a new Flutter Project)
+
+**Today's Progress**: Wired up some mock data to the AlarmList and added some styling. Still need to work out some of the functionality. 
+
+**Thoughts**: Today I learned more on Themes, Colors, and Fonts. Additionally, I dug into variations of the arrow operator for iterating over lists, and returning values. 
+
+**Link to work:** [My Snooze App](https://github.com/donwardpeng/Flutter_Playground_v2://github.com/donwardpeng/mysnooze)
+
