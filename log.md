@@ -450,3 +450,12 @@
 
 **Link to work:** [My Snooze App](https://github.com/donwardpeng/Flutter_Playground_v2://github.com/donwardpeng/mysnooze)
 
+### Day 44: April 29, 2019
+##### (Continuing on a new Flutter Project)
+
+**Today's Progress**: Upgraded Flutter, had to fix CocoaPods. Added some more styling and an empty list message. 
+
+**Thoughts**: Learned a bunch about CocoaPod dependencies today as it seemed the Flutter upgrade broke many of them for the project. 
+
+**Link to work:** [My Snooze App](https://github.com/donwardpeng/Flutter_Playground_v2://github.com/donwardpeng/mysnooze)
+
