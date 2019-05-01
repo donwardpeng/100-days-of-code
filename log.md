@@ -468,3 +468,12 @@
 
 **Link to work:** [My Snooze App](https://github.com/donwardpeng/Flutter_Playground_v2://github.com/donwardpeng/mysnooze)
 
+### Day 46: May 1, 2019
+##### (Continuing on a new Flutter Project)
+
+**Today's Progress**: Added the proper schema for alarms to the Cloud Firestore dB and added some data to it. Was able to remove all of the mocks I had and read from it to the main list. Next steps - get the add alarm button wired up.
+ 
+**Thoughts**: Dug further into Cloud Firestore - ran into a classic chicken/egg problem of -> do I write a script to populate data in it, or just manually do it. I chose the latter since it seems faster, although writing a script could be worth it in the future. 
+
+**Link to work:** [My Snooze App](https://github.com/donwardpeng/Flutter_Playground_v2://github.com/donwardpeng/mysnooze)
+
