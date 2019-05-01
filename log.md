@@ -459,3 +459,12 @@
 
 **Link to work:** [My Snooze App](https://github.com/donwardpeng/Flutter_Playground_v2://github.com/donwardpeng/mysnooze)
 
+### Day 45: April 30, 2019
+##### (Continuing on a new Flutter Project)
+
+**Today's Progress**: Challenged myself to see how fast I could add a full screen dialog when the Add Alarm button was pressed - 25 minutes to research it and get it all functional. 
+
+**Thoughts**: I love the fact that only one flag is needed when pushing a new screen onto the stack to cause it to become a full screen dialog. This seems like a great solution. 
+
+**Link to work:** [My Snooze App](https://github.com/donwardpeng/Flutter_Playground_v2://github.com/donwardpeng/mysnooze)
+
