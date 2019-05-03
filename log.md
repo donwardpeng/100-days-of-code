@@ -477,3 +477,12 @@
 
 **Link to work:** [My Snooze App](https://github.com/donwardpeng/Flutter_Playground_v2://github.com/donwardpeng/mysnooze)
 
+### Day 47: May 2, 2019
+##### (Continuing on a new Flutter Project)
+
+**Today's Progress**: Finished the code to successfully write alarms to Cloud Firestore. Also am able to read them back into the main list. Need to fix the loading of images since it is throwing a silent exception. 
+ 
+**Thoughts**: I could not find an eloquent way to handle null values used in optional named parameters for Constructors. I ended up using default values instead, but would rather have some sort of assertion in place instead of relying on default values. Especially for things like the id of an item.  
+
+**Link to work:** [My Snooze App](https://github.com/donwardpeng/Flutter_Playground_v2://github.com/donwardpeng/mysnooze)
+
