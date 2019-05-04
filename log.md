@@ -486,3 +486,12 @@
 
 **Link to work:** [My Snooze App](https://github.com/donwardpeng/Flutter_Playground_v2://github.com/donwardpeng/mysnooze)
 
+### Day 48: May 3, 2019
+##### (Continuing on a new Flutter Project)
+
+**Today's Progress**: Refactoring, refactoring and more refactoring. 
+
+**Thoughts**: Sometimes you have to step back and rip a bunch a stuff apart, tidy it up and refactor a bunch before moving forward with new features.
+ 
+**Link to work:** [My Snooze App](https://github.com/donwardpeng/Flutter_Playground_v2://github.com/donwardpeng/mysnooze)
+
