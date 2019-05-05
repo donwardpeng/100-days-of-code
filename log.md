@@ -495,3 +495,12 @@
  
 **Link to work:** [My Snooze App](https://github.com/donwardpeng/Flutter_Playground_v2://github.com/donwardpeng/mysnooze)
 
+### Day 49: May 4, 2019
+##### (Continuing on a new Flutter Project)
+
+**Today's Progress**: Learned about Firebase Remote Config and started adding it to the codebase. Ran into issues working with Futures. 
+
+**Thoughts**: Need to dig into how to create functions that use the async/await keyword when they need to return something. Still wrapping my head around Futures in Dart.
+
+**Link to work:** [My Snooze App](https://github.com/donwardpeng/Flutter_Playground_v2://github.com/donwardpeng/mysnooze)
+
