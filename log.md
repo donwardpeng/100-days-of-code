@@ -504,3 +504,12 @@
 
 **Link to work:** [My Snooze App](https://github.com/donwardpeng/Flutter_Playground_v2://github.com/donwardpeng/mysnooze)
 
+### Day 50: May 5, 2019
+##### (Continuing on a new Flutter Project)
+
+**Today's Progress**: Understand and implemented Firebase Remote Config. Also got the new Flutter DevTools running from the CLI (this is new with Flutter 1.2). 
+
+**Thoughts**: Initially I tried to get the theming to change based on Flutter Remote Config, but determined that it's purpose does not appear to be for app wide theming. I got it working reading simple string values to change the colors of buttons as a first attempt.
+
+**Link to work:** [My Snooze App](https://github.com/donwardpeng/Flutter_Playground_v2://github.com/donwardpeng/mysnooze)
+
