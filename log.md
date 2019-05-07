@@ -513,3 +513,12 @@
 
 **Link to work:** [My Snooze App](https://github.com/donwardpeng/Flutter_Playground_v2://github.com/donwardpeng/mysnooze)
 
+### Day 51: May 6, 2019
+##### (Continuing on a new Flutter Project)
+
+**Today's Progress**: Messed around with themes and navigation via named routes. Still need to determine more on Firebase Remote Config. 
+
+**Thoughts**: Went down a bit of a rabbit hole today trying to get Firebase Remote Config to work with theming. Going to spend one more day on it before moving to a new topic. 
+
+**Link to work:** [My Snooze App](https://github.com/donwardpeng/Flutter_Playground_v2://github.com/donwardpeng/mysnooze)
+
