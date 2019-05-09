@@ -522,3 +522,15 @@
 
 **Link to work:** [My Snooze App](https://github.com/donwardpeng/Flutter_Playground_v2://github.com/donwardpeng/mysnooze)
 
+### Day 52: May 7, 2019
+##### (Google I/O - took the day off from coding to learn a ton on Flutter)
+
+### Day 52: May 8, 2019
+##### (Continuing on a new Flutter Project)
+
+**Today's Progress**: Flutter DevTools now run in VSCode for me - immensely helpful. Also dug into the Inherited Widget today. 
+
+**Thoughts**: Was excited about the addition to MLKit of Google Translate. Thought I would try it out but quickly realized that it is only supported natively for the moment (to be fair it was announced yesterday). It would be great to be able to run translation services right on device - incredibly powerful. 
+ 
+**Link to work:** [My Snooze App](https://github.com/donwardpeng/Flutter_Playground_v2://github.com/donwardpeng/mysnooze)
+
