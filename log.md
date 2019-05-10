@@ -534,3 +534,12 @@
  
 **Link to work:** [My Snooze App](https://github.com/donwardpeng/Flutter_Playground_v2://github.com/donwardpeng/mysnooze)
 
+### Day 53: May 9, 2019
+##### (Continuing on a new Flutter Project)
+
+**Today's Progress**: Mostly research today into the Element Tree, Widget Tree and Render Tree. Additionally I dug into how InheritedWidget works.
+
+**Thoughts**: The Element Tree, Widget Tree and Render Tree do not seem to be covered in many of the intro tutorials to Flutter, but from I now understand, they are important to understand to understand some of the nuisances of the UI (like the need for keys).
+
+**Link to work:** [My Snooze App](https://github.com/donwardpeng/Flutter_Playground_v2://github.com/donwardpeng/mysnooze)
+
