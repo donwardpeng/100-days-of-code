@@ -543,3 +543,12 @@
 
 **Link to work:** [My Snooze App](https://github.com/donwardpeng/Flutter_Playground_v2://github.com/donwardpeng/mysnooze)
 
+### Day 54: May 10, 2019
+##### (Continuing on a new Flutter Project)
+
+**Today's Progress**: Started on RemoteConfig and setting the theme by calling RemoteConfig before runApp is called in main(). Also looked into InheritedWidget more - I am fairly certain that another pattern I got from a blog posting is exactly the implementation of an InheritedWidget with just another name.
+
+**Thoughts**: Watched a ton of video's on various Widgets, and the Wdiget Tree, Element Tree and Render Tree. I totally understand them now - this video was a huge help -> https://www.youtube.com/watch?v=dkyY9WCGMi0&t=7s" 
+
+**Link to work:** [My Snooze App](https://github.com/donwardpeng/Flutter_Playground_v2://github.com/donwardpeng/mysnooze)
+
