@@ -552,3 +552,12 @@
 
 **Link to work:** [My Snooze App](https://github.com/donwardpeng/Flutter_Playground_v2://github.com/donwardpeng/mysnooze)
 
+### Day 55: May 11, 2019
+##### (Continuing on a new Flutter Project)
+
+**Today's Progress**: Very close on setting the theme via RemoteConfig - just need to figure out how to trigger the fetch of the Remote Config data. 
+
+**Thoughts**: I think I figured out a way to wrap the widget that RunApp needs returned in a FutureBuilder to allow for RemoteConfig to be setup first thing on app run. 
+
+**Link to work:** [My Snooze App](https://github.com/donwardpeng/Flutter_Playground_v2://github.com/donwardpeng/mysnooze)
+
