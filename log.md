@@ -561,3 +561,15 @@
 
 **Link to work:** [My Snooze App](https://github.com/donwardpeng/Flutter_Playground_v2://github.com/donwardpeng/mysnooze)
 
+### Day 55: May 12, 2019
+##### Mother's Day - I took it off
+
+### Day 56: May 13, 2019
+##### (Continuing on a new Flutter Project)
+
+**Today's Progress**: Finished the code to call remote config on app start. Still need some debugging.' 
+
+**Thoughts**: Got some good experience with the debugger today as I needed to sort through a rather long stack trace to fix a bug in my remote config code. 
+
+**Link to work:** [My Snooze App](https://github.com/donwardpeng/Flutter_Playground_v2://github.com/donwardpeng/mysnooze)
+
