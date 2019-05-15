@@ -573,3 +573,12 @@
 
 **Link to work:** [My Snooze App](https://github.com/donwardpeng/Flutter_Playground_v2://github.com/donwardpeng/mysnooze)
 
+### Day 57: May 14, 2019
+##### (Continuing on a new Flutter Project)
+
+**Today's Progress**: Debugged Remote Config - got it working. Needed to push the publish button in the Firebase Console to get it to work - duh! Also refactored some code and added a Snackbar to the add alarm screen. Still need to debug it. 
+
+**Thoughts**: A wish list item -> more Flutter/Firebase Remote Config examples would be great in the git repo. 
+
+**Link to work:** [My Snooze App](https://github.com/donwardpeng/Flutter_Playground_v2://github.com/donwardpeng/mysnooze)
+
