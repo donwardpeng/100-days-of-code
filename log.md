@@ -582,3 +582,12 @@
 
 **Link to work:** [My Snooze App](https://github.com/donwardpeng/Flutter_Playground_v2://github.com/donwardpeng/mysnooze)
 
+### Day 58: May 15, 2019
+##### (Continuing on a new Flutter Project)
+
+**Today's Progress**: Taught a course on Flutter and Firebase to the Windsor GDG group - 38 people tonight.  
+
+**Thoughts**: Interesting how everyone asks if Flutter is a thing - I think that depends on the community uptake and adoption of it. 
+
+**Link to work:** [My Snooze App](https://github.com/donwardpeng/Flutter_Playground_v2://github.com/donwardpeng/mysnooze)
+
