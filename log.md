@@ -591,3 +591,12 @@
 
 **Link to work:** [My Snooze App](https://github.com/donwardpeng/Flutter_Playground_v2://github.com/donwardpeng/mysnooze)
 
+### Day 59: May 16, 2019
+##### (Continuing on a new Flutter Project)
+
+**Today's Progress**: Success! Achieving my goal all along with Remote Config - updating theming from the Remote Config values. 
+
+**Thoughts**: This whole exercise of trying to change the theme of the app based on a Firebase Remote Config values has led me down some rabbit holes teaching me about the Widget, Element, and Render trees as well giving me more experience with Future's and async functions in Flutter. Well worth the effort when I look back on it all.
+
+**Link to work:** [My Snooze App](https://github.com/donwardpeng/Flutter_Playground_v2://github.com/donwardpeng/mysnooze)
+
