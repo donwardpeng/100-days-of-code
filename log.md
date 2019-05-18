@@ -600,3 +600,12 @@
 
 **Link to work:** [My Snooze App](https://github.com/donwardpeng/Flutter_Playground_v2://github.com/donwardpeng/mysnooze)
 
+### Day 60: May 17, 2019
+##### (Continuing on a new Flutter Project)
+
+**Today's Progress**: Reconsidered the functionality of the app now that I have all of the functional pieces together. Going to modify the bottom action nav bar to accomodate my new design. 
+
+**Thoughts**: As I get further into Flutter I am continually impressed with the flexibility to quickly change the UI, as well as the myriad of cool things that others have built to create slick, responsive UI's.
+
+**Link to work:** [My Snooze App](https://github.com/donwardpeng/Flutter_Playground_v2://github.com/donwardpeng/mysnooze)
+
