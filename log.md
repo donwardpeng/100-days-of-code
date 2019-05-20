@@ -609,3 +609,15 @@
 
 **Link to work:** [My Snooze App](https://github.com/donwardpeng/Flutter_Playground_v2://github.com/donwardpeng/mysnooze)
 
+### Day 60: May 18, 2019
+##### (Day Off)
+
+### Day 61: May 19, 2019
+##### (Continuing on a new Flutter Project)
+
+**Today's Progress**: Started working on an animated bottom app bar - needed to pick up animations first although. 
+
+**Thoughts**: In all of my work to pick up and learn Flutter and Firebase I overlooked animations. This seems like a great intro to them -> https://medium.com/flutter-io/zero-to-one-with-flutter-43b13fd7b354
+
+**Link to work:** [My Snooze App](https://github.com/donwardpeng/Flutter_Playground_v2://github.com/donwardpeng/mysnooze)
+
