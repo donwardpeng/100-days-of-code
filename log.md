@@ -621,3 +621,16 @@
 
 **Link to work:** [My Snooze App](https://github.com/donwardpeng/Flutter_Playground_v2://github.com/donwardpeng/mysnooze)
 
+### Day 61: May 20, 2019
+##### (Day Off - Sick)
+
+
+### Day 62: May 21, 2019
+##### (Continuing on a new Flutter Project)
+
+**Today's Progress**: Took a detour - Decided to look into a Flutter Web App. Started modifying the Hello World app. 
+
+**Thoughts**: I wonder how much of the standard Flutter widgets are ready for web. According to the site it is not production ready, but I have to imagine for a simple site it could be ok. 
+
+**Link to work:** [My Snooze App](https://github.com/donwardpeng/Flutter_Playground_v2://github.com/donwardpeng/mysnooze)
+
