@@ -634,3 +634,11 @@
 
 **Link to work:** [My Snooze App](https://github.com/donwardpeng/Flutter_Playground_v2://github.com/donwardpeng/mysnooze)
 
+### Day 63: May 22, 2019
+##### (Continuing on a new Flutter Project)
+
+**Today's Progress**: Got a early version of the Michigan GDG DevFest Conference site started in Flutter for Web. Figured out the dependencies, and how assets work. 
+
+**Thoughts**: This was pretty cool - once I got all of the dependencies in place and read the short migration plan to migrate a mobile app Flutter project to a web project, it felt like I was doing normal Flutter development. 
+
+**Link to work:** [MIDevFest Site](https://github.com/donwardpeng/midevfest)
