@@ -642,3 +642,12 @@
 **Thoughts**: This was pretty cool - once I got all of the dependencies in place and read the short migration plan to migrate a mobile app Flutter project to a web project, it felt like I was doing normal Flutter development. 
 
 **Link to work:** [MIDevFest Site](https://github.com/donwardpeng/midevfest)
+
+### Day 64: May 23, 2019
+##### (Continuing on a new Flutter Project)
+
+**Today's Progress**: Added a photo carousel to the Flutter Web app. I adapted a lot of code from one of the example Flutter apps for Web.
+
+**Thoughts**: Still getting a feel for how screen real estate translates on Flutter for Web between what I know on mobile. Additionally, if this project were to be adopted for other uses, I need to figure out how to store string resources in Flutter. 
+
+**Link to work:** [MIDevFest Site](https://github.com/donwardpeng/midevfest)
