@@ -651,3 +651,12 @@
 **Thoughts**: Still getting a feel for how screen real estate translates on Flutter for Web between what I know on mobile. Additionally, if this project were to be adopted for other uses, I need to figure out how to store string resources in Flutter. 
 
 **Link to work:** [MIDevFest Site](https://github.com/donwardpeng/midevfest)
+
+### Day 65: May 24, 2019
+##### (Continuing on a new Flutter Project)
+
+**Today's Progress**: Fiddled with the image carousel. Ran into a problem where the webdev would not autoload anymore and had to debug in - flutter clean fixed the issue. 
+
+**Thoughts**: Spent 10-15 minutes debugging why the website in dev was showing up as a blank screen. I experienced this once or twice with mobile development where somehow the hot reload messes up the build and 'flutter clean' is all that seems to fix the project.
+
+**Link to work:** [MIDevFest Site](https://github.com/donwardpeng/midevfest)
