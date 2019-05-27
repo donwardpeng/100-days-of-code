@@ -660,3 +660,17 @@
 **Thoughts**: Spent 10-15 minutes debugging why the website in dev was showing up as a blank screen. I experienced this once or twice with mobile development where somehow the hot reload messes up the build and 'flutter clean' is all that seems to fix the project.
 
 **Link to work:** [MIDevFest Site](https://github.com/donwardpeng/midevfest)
+
+### Day 65: May 25, 2019
+##### (Took a family day)
+
+
+### Day 66: May 26, 2019
+##### (Continuing on a new Flutter Project)
+
+**Today's Progress**: Dived into creating a string resource file and trying to get localization working - tried one library - https://pub.dev/packages/gen_lang#-readme-tab- but it does not seem to work with Flutter for Web yet. I ended up rolling my own json file with strings that I decode and use per page in the app. 
+
+**Thoughts**: Still looking into localization for a Flutter project - the solution provided in the Flutter documentation seems super complicated. 
+
+**Link to work:** [MIDevFest Site](https://github.com/donwardpeng/midevfest)
+
