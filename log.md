@@ -674,3 +674,12 @@
 
 **Link to work:** [MIDevFest Site](https://github.com/donwardpeng/midevfest)
 
+### Day 67: May 27, 2019
+##### (Continuing on a new Flutter Project)
+
+**Today's Progress**: Tried to use a FutureBuilder to read in the JSON string resource values. I understand how to use the FutureBuilder, unfortunately I have it performing an infinite update on the UI - need to fix this."
+ 
+**Thoughts**: Flutter supports reactive programming in a lot of ways - determining wich one is needed when sometimes trips me up. 
+
+**Link to work:** [MIDevFest Site](https://github.com/donwardpeng/midevfest)
+
