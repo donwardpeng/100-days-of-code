@@ -683,3 +683,11 @@
 
 **Link to work:** [MIDevFest Site](https://github.com/donwardpeng/midevfest)
 
+### Day 68: May 28, 2019
+##### (Continuing on a new Flutter Project)
+
+**Today's Progress**: Added strings, a bottom app bar and cleaned up the main page design a bit.
+ 
+**Thoughts**: Goal - have the DevFest site finished and up and production ready by the end of the week - I have high confidence I can make this happen. 
+
+**Link to work:** [MIDevFest Site](https://github.com/donwardpeng/midevfest)
