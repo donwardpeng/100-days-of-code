@@ -691,3 +691,12 @@
 **Thoughts**: Goal - have the DevFest site finished and up and production ready by the end of the week - I have high confidence I can make this happen. 
 
 **Link to work:** [MIDevFest Site](https://github.com/donwardpeng/midevfest)
+
+### Day 69: May 29, 2019
+##### (Continuing on a new Flutter Project)
+
+**Today's Progress**: Continued to stylize the main page of the site. Also tried to get a new web page to open, and unexpectedly ran into issues since this does not seem to be supported yet in Flutter Web. 
+
+**Thoughts**: Still on track for my goal, although I still need to figure out how to open an existing URL from a button click on the page. 
+
+**Link to work:** [MIDevFest Site](https://github.com/donwardpeng/midevfest)
