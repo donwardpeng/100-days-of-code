@@ -700,3 +700,12 @@
 **Thoughts**: Still on track for my goal, although I still need to figure out how to open an existing URL from a button click on the page. 
 
 **Link to work:** [MIDevFest Site](https://github.com/donwardpeng/midevfest)
+
+### Day 70: May 30, 2019
+##### (Continuing on a new Flutter Project)
+
+**Today's Progress**: A bit more style - most of the time spent trying to get an external site to open in a browser window from a Flutter button. I know what does not work - I think dart:html may hold the answer. 
+
+**Thoughts**: I searched quite a bit of documentation, StackOverflow answers and Flutter Web repo's to figure this problem out - I am resolved to try to get something put together, it might not be a conventional solution.
+
+**Link to work:** [MIDevFest Site](https://github.com/donwardpeng/midevfest)
