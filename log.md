@@ -709,3 +709,12 @@
 **Thoughts**: I searched quite a bit of documentation, StackOverflow answers and Flutter Web repo's to figure this problem out - I am resolved to try to get something put together, it might not be a conventional solution.
 
 **Link to work:** [MIDevFest Site](https://github.com/donwardpeng/midevfest)
+
+### Day 71: June 1, 2019
+##### (Continuing on a new Flutter Project)
+
+**Today's Progress**: Finally got the Call for Papers button working to open a site.I used the dart:html window.open method to open it. Also I re-organized the project and added a Team button.
+
+**Thoughts**: Need to fix an issue with loading the Team page, and build the site for Firebase hosting.
+
+**Link to work:** [MIDevFest Site](https://github.com/donwardpeng/midevfest)
