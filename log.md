@@ -718,3 +718,12 @@
 **Thoughts**: Need to fix an issue with loading the Team page, and build the site for Firebase hosting.
 
 **Link to work:** [MIDevFest Site](https://github.com/donwardpeng/midevfest)
+
+### Day 72: June 2, 2019
+##### (Continuing on a new Flutter Project)
+
+**Today's Progress**: Got the teams page working with cardviews with an image and name for each member of the team. Still need to figure out how to get the back button in the browser to work on the teams page. 
+
+**Thoughts**: Got the page hosted in Firebase hosting - learned how to build it and deploy it to prod. 
+
+**Link to work:** [MIDevFest Site](https://github.com/donwardpeng/midevfest)
