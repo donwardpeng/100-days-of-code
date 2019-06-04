@@ -727,3 +727,12 @@
 **Thoughts**: Got the page hosted in Firebase hosting - learned how to build it and deploy it to prod. 
 
 **Link to work:** [MIDevFest Site](https://github.com/donwardpeng/midevfest)
+
+### Day 73: June 3, 2019
+##### (Continuing on a new Flutter Project)
+
+**Today's Progress**: Made the app responsive with Large and Small screen size support using MediaQuery. 
+
+**Thoughts**: Using MediaQuery I can definitely see how to support phone, tablet and web all from one code base that accounts for the different designs/layouts that make sense for each. 
+
+**Link to work:** [MIDevFest Site](https://github.com/donwardpeng/midevfest)
