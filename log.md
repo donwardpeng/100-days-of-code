@@ -736,3 +736,16 @@
 **Thoughts**: Using MediaQuery I can definitely see how to support phone, tablet and web all from one code base that accounts for the different designs/layouts that make sense for each. 
 
 **Link to work:** [MIDevFest Site](https://github.com/donwardpeng/midevfest)
+
+### Day 73: June 4, 2019
+##### Took a day off since I hosted a User Group meeting on TensorFlow
+ 
+### Day 74: June 5, 2019
+##### (Continuing on a new Flutter Project)
+
+**Today's Progress**: Added the Flutter widget, cleaned up the main page and added social media buttons to the teams page. Lastly, the page went live in production today at https://www.michigandevfest.com/#/. 
+
+**Thoughts**: It is interesting (and useful) that there is a Flutter logo widget in the Flutter framework. This is the first time I have ever seen a UI element to display the frameworks logo as part of the framework.
+
+**Link to work:** [MIDevFest Site](https://github.com/donwardpeng/midevfest)
+
