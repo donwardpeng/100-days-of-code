@@ -749,3 +749,12 @@
 
 **Link to work:** [MIDevFest Site](https://github.com/donwardpeng/midevfest)
 
+### Day 75: June 6, 2019
+##### (Continuing on a new Flutter Project)
+
+**Today's Progress**: Added flipping cards for the team page, and scaffolded out a generic card for a person. This can be used for speakers in the future. 
+
+**Thoughts**: Supporting a small/large screen layout seems the way to go for Flutter Web.
+
+**Link to work:** [MIDevFest Site](https://github.com/donwardpeng/midevfest)
+
