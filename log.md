@@ -758,6 +758,15 @@
 
 **Link to work:** [MIDevFest Site](https://github.com/donwardpeng/midevfest)
 
+### Day 77: June 9, 2019
+##### (Continuing on a new Flutter Project)
+
+**Today's Progress**: Started looking into JSON conversion and porting over the project Hoverboard JSON config file. 
+
+**Thoughts**: I have been thinking about how to structure the data for configuring the website to be used by other conference organizers and came to the realization that other organizers have used project Hoverboard's config and are used to it. To make it easy for them and to have a chance at some adoption - I am going to use the same config structure. 
+
+**Link to work:** [MIDevFest Site](https://github.com/donwardpeng/midevfest)
+
 ### Day 76: June 7, 2019
 ##### (Continuing on a new Flutter Project)
 
