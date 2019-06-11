@@ -776,3 +776,12 @@
 
 **Link to work:** [MIDevFest Site](https://github.com/donwardpeng/midevfest)
 
+### Day 78: June 10, 2019
+##### (Continuing on a new Flutter Project)
+
+**Today's Progress**: Settled on one font for the site, cleaned up more of the content and layout and refactored some of the classes. 
+
+**Thoughts**: I started to look at the Hoverboard project and need to dig in further to see if I can figure out how to host the config in Firebase Firestore from the Flutter for Web app. This support would make the project truly reusable by others. 
+
+**Link to work:** [MIDevFest Site](https://github.com/donwardpeng/midevfest)
+
