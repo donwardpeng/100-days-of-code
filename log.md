@@ -785,3 +785,12 @@
 
 **Link to work:** [MIDevFest Site](https://github.com/donwardpeng/midevfest)
 
+### Day 79: June 12, 2019
+##### (Continuing on a new Flutter Project)
+
+**Today's Progress**: Explored various possibilities to get Cloud Firestore working in Flutter for Web. Since the Flutter plugin system is not yet working for Flutter for Web, I can not use the Flutter Firebase plugin. I tried using the dart:js library but it seemed to tedious. Trying out the Dart Firebase project now, and I am pretty close to use it.
+ 
+**Thoughts**: If this works, I may be the only one doing this since I have yet to see any other examples or codebases using this technique as an interim measure. 
+
+**Link to work:** [MIDevFest Site](https://github.com/donwardpeng/midevfest)
+
