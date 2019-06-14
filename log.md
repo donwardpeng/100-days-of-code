@@ -794,3 +794,12 @@
 
 **Link to work:** [MIDevFest Site](https://github.com/donwardpeng/midevfest)
 
+### Day 80: June 13, 2019
+##### (Continuing on a new Flutter Project)
+
+**Today's Progress**: Continued to work on adding the Firebase and Cloud Firestore dart libraries. Also looked into adding an appbar sliver to the footer. Looking to get a pattern established for all of the data read in and the speakers, sponsors and other pages to use. 
+
+**Thoughts**: I may need to shelf the work on the Firebase integration for a few days so I can dig really deep on it. 
+
+**Link to work:** [MIDevFest Site](https://github.com/donwardpeng/midevfest)
+
