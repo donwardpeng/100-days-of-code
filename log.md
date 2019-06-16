@@ -803,3 +803,11 @@
 
 **Link to work:** [MIDevFest Site](https://github.com/donwardpeng/midevfest)
 
+### Day 81: June 14, 2019
+##### (Continuing on a new Flutter Project)
+
+**Today's Progress**: Started parsing JSON to bring in data. Going to use this approach so I am prepared for when we need to add speakers and sponsors. I will tackle the problem of Firebase sync later. 
+**Thoughts**: For some reason I have a huge stack trace of errors when I bring in the firestore.dart imports - need to take a good 1-2 hours and debug what is going on. 
+
+**Link to work:** [MIDevFest Site](https://github.com/donwardpeng/midevfest)
+
