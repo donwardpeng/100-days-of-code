@@ -803,11 +803,20 @@
 
 **Link to work:** [MIDevFest Site](https://github.com/donwardpeng/midevfest)
 
-### Day 81: June 14, 2019
+### Day 81: June 15, 2019
 ##### (Continuing on a new Flutter Project)
 
 **Today's Progress**: Started parsing JSON to bring in data. Going to use this approach so I am prepared for when we need to add speakers and sponsors. I will tackle the problem of Firebase sync later. 
 **Thoughts**: For some reason I have a huge stack trace of errors when I bring in the firestore.dart imports - need to take a good 1-2 hours and debug what is going on. 
+
+**Link to work:** [MIDevFest Site](https://github.com/donwardpeng/midevfest)
+
+### Day 82: June 16, 2019
+##### (Continuing on a new Flutter Project)
+
+**Today's Progress**: Looked at Json parsing for Flutter - looked into dart:convert and json_serializable. Started to code using json_serializable. Since I am using existing Json from the site we used last year, I had to figure out how to handle a Json file that starts with an unnamed array. Still working on it.
+ 
+**Thoughts**: Interesting that Flutter can not use runtime reflection to determine Json structure like in GSON and Jackson. Thus the need for a bit more coding using dart:convert or json_serializable. 
 
 **Link to work:** [MIDevFest Site](https://github.com/donwardpeng/midevfest)
 
