@@ -820,3 +820,12 @@
 
 **Link to work:** [MIDevFest Site](https://github.com/donwardpeng/midevfest)
 
+### Day 83: June 17, 2019
+##### (Continuing on a new Flutter Project)
+
+**Today's Progress**: Implement Json_Serializable for the organizing team Json file. Learned a lot about Darts build_runner, the Json_Serializable class, Json Annotations and the factory constuctor.  
+
+**Thoughts**: When I get a chance I need to read the Effective Dart guide - this will help me learn all the nuances of the language and better understand how the source code in Flutter is written. 
+
+**Link to work:** [MIDevFest Site](https://github.com/donwardpeng/midevfest)
+
