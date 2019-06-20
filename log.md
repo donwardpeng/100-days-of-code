@@ -829,3 +829,12 @@
 
 **Link to work:** [MIDevFest Site](https://github.com/donwardpeng/midevfest)
 
+### Day 84: June 19, 2019
+##### (Continuing on a new Flutter Project)
+
+**Today's Progress**: Still working on parsing Json and making the necessary http requests. 
+
+**Thoughts**: There are alot of examples of how to parse Json from strings included within dart files. I am still working on finding a good example of parsing it from a json file on the server.
+
+**Link to work:** [MIDevFest Site](https://github.com/donwardpeng/midevfest)
+
