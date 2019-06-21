@@ -838,3 +838,12 @@
 
 **Link to work:** [MIDevFest Site](https://github.com/donwardpeng/midevfest)
 
+### Day 85: June 20, 2019
+##### (Continuing on a new Flutter Project)
+
+**Today's Progress**: Successfully parsing the teams Json now. Need to align it with the data objects I created for it in the project. This is a good pattern. 
+
+**Thoughts**: What I learned and did not see documented, Json files go in the web/assets folder if you want them exposed on a website in Flutter.
+
+**Link to work:** [MIDevFest Site](https://github.com/donwardpeng/midevfest)
+
