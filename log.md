@@ -847,3 +847,18 @@
 
 **Link to work:** [MIDevFest Site](https://github.com/donwardpeng/midevfest)
 
+### Day 86: June 21, 2019
+##### (Continuing on a new Flutter Project)
+
+**Today's Progress**: Success! Reading the team Json into the State object for the app. Now to start using it. 
+
+**Thoughts**: I learned that top level arrays in JSon are not handled well using the json_serializable library, therefore I just converted the JSon top level array to an object. 
+
+### Day 87: June 22, 2019
+##### (Continuing on a new Flutter Project)
+
+**Today's Progress**: Using the team member Json to generate everything on the team page with the except of the GDG chapter they belong to. Need to add one more field for each team member to the Json.
+
+**Thoughts**: Just found a reason to use the json_serializable code generator library - I need to add some fields to my Json and it should make it pretty easy. 
+
+**Link to work:** [MIDevFest Site](https://github.com/donwardpeng/midevfest)*Link to work:** [MIDevFest Site](https://github.com/donwardpeng/midevfest)
