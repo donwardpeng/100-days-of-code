@@ -862,3 +862,12 @@
 **Thoughts**: Just found a reason to use the json_serializable code generator library - I need to add some fields to my Json and it should make it pretty easy. 
 
 **Link to work:** [MIDevFest Site](https://github.com/donwardpeng/midevfest)*Link to work:** [MIDevFest Site](https://github.com/donwardpeng/midevfest)
+
+### Day 88: June 23, 2019
+##### (Continuing on a new Flutter Project)
+
+**Today's Progress**: Finished off the team's page with reading from a Json file, both for the large and small layout. Brought in the sponsors Json file and am able to parse it into a data object using json_serializable.
+
+**Thoughts**: Now that I know how json_serializable works, spinning up more data objects for various pages (sponsors, speakers, sessions) should be easy. 
+
+**Link to work:** [MIDevFest Site](https://github.com/donwardpeng/midevfest)*Link to work:** [MIDevFest Site](https://github.com/donwardpeng/midevfest)
