@@ -871,3 +871,12 @@
 **Thoughts**: Now that I know how json_serializable works, spinning up more data objects for various pages (sponsors, speakers, sessions) should be easy. 
 
 **Link to work:** [MIDevFest Site](https://github.com/donwardpeng/midevfest)*Link to work:** [MIDevFest Site](https://github.com/donwardpeng/midevfest)
+
+### Day 89: June 24, 2019
+##### (Continuing on a new Flutter Project)
+
+**Today's Progress**: Added the sponsors page and sponsors navigation button to all of the headers. Refactored out the header and footer code for the project to one codebase. Also I added the Json files to Firebase Cloud Store so anyone from the team can modify them without needing to build and deploy the project. 
+
+**Thoughts**: Now it is really easy to add new pagers with content since I have the structure for each page laid out. 
+
+**Link to work:** [MIDevFest Site](https://github.com/donwardpeng/midevfest)*Link to work:** [MIDevFest Site](https://github.com/donwardpeng/midevfest)
