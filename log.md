@@ -880,3 +880,12 @@
 **Thoughts**: Now it is really easy to add new pagers with content since I have the structure for each page laid out. 
 
 **Link to work:** [MIDevFest Site](https://github.com/donwardpeng/midevfest)*Link to work:** [MIDevFest Site](https://github.com/donwardpeng/midevfest)
+
+### Day 90: June 25, 2019
+##### (Continuing on a new Flutter Project)
+
+**Today's Progress**: The sponsors page is scaffolded in - trying to debug the Data Objects for it. 
+
+**Thoughts**: With Firebase Cloud Storage, I am going to try and add all of the assets and config for the project to it, to make the website truly configurable without any coding. 
+
+**Link to work:** [MIDevFest Site](https://github.com/donwardpeng/midevfest)*Link to work:** [MIDevFest Site](https://github.com/donwardpeng/midevfest)
