@@ -889,3 +889,12 @@
 **Thoughts**: With Firebase Cloud Storage, I am going to try and add all of the assets and config for the project to it, to make the website truly configurable without any coding. 
 
 **Link to work:** [MIDevFest Site](https://github.com/donwardpeng/midevfest)*Link to work:** [MIDevFest Site](https://github.com/donwardpeng/midevfest)
+
+### Day 91: June 27, 2019
+##### (Continuing on a new Flutter Project)
+
+**Today's Progress**: Working to add a Code of Conduct page loaded from an HTML document into the Flutter app. 
+
+**Thoughts**: Trying to keep everything designed to be reused for other conferences.
+
+**Link to work:** [MIDevFest Site](https://github.com/donwardpeng/midevfest)*Link to work:** [MIDevFest Site](https://github.com/donwardpeng/midevfest)
