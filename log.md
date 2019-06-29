@@ -898,3 +898,12 @@
 **Thoughts**: Trying to keep everything designed to be reused for other conferences.
 
 **Link to work:** [MIDevFest Site](https://github.com/donwardpeng/midevfest)*Link to work:** [MIDevFest Site](https://github.com/donwardpeng/midevfest)
+
+### Day 92: June 28, 2019
+##### (Continuing on a new Flutter Project)
+
+**Today's Progress**: Code of Conduct Page completed. I could not find a good way to embed HTML into an existing Flutter for Web page, thus I just hosted the static HTML page in Firebase Cloud Storage and open a separate tab for the page. 
+
+**Thoughts**: When Flutter for Web allows the Flutter packages to be fully used, then displaying HTML in a site will be much easier.
+
+**Link to work:** [MIDevFest Site](https://github.com/donwardpeng/midevfest)*Link to work:** [MIDevFest Site](https://github.com/donwardpeng/midevfest)
