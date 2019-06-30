@@ -907,3 +907,12 @@
 **Thoughts**: When Flutter for Web allows the Flutter packages to be fully used, then displaying HTML in a site will be much easier.
 
 **Link to work:** [MIDevFest Site](https://github.com/donwardpeng/midevfest)*Link to work:** [MIDevFest Site](https://github.com/donwardpeng/midevfest)
+
+### Day 93: June 29, 2019
+##### (Continuing on a new Flutter Project)
+
+**Today's Progress**: Code of Conduct page is live in prod. Debugged the sponsors page, and fixed how I was parsing Json. The data is now displaying, just need to clean up the UI for the sponsors page. 
+
+**Thoughts**: Debugging mismatches in Json naming issues when serializing it is not easy - there must be a better way than just print statements. 
+
+**Link to work:** [MIDevFest Site](https://github.com/donwardpeng/midevfest)*Link to work:** [MIDevFest Site](https://github.com/donwardpeng/midevfest)
