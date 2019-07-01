@@ -916,3 +916,12 @@
 **Thoughts**: Debugging mismatches in Json naming issues when serializing it is not easy - there must be a better way than just print statements. 
 
 **Link to work:** [MIDevFest Site](https://github.com/donwardpeng/midevfest)*Link to work:** [MIDevFest Site](https://github.com/donwardpeng/midevfest)
+
+### Day 94: June 30, 2019
+##### (Continuing on a new Flutter Project)
+
+**Today's Progress**: I started with the Teams page for the Sponsors page, and ended up simplifying the design and layout for the Sponsors page by using a GridView Widget with Card Widgets for each Sponsor. 
+
+**Thoughts**: I realized that I have storing all of my Json and some Html in Firebase Cloud Storage, but have not stored images there. I need to figure out if I can use relative path names for in Firebase Cloud Storage or need to use the full url (which could be pretty messy). 
+
+**Link to work:** [MIDevFest Site](https://github.com/donwardpeng/midevfest)*Link to work:** [MIDevFest Site](https://github.com/donwardpeng/midevfest)
