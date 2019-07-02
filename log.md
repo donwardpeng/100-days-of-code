@@ -925,3 +925,12 @@
 **Thoughts**: I realized that I have storing all of my Json and some Html in Firebase Cloud Storage, but have not stored images there. I need to figure out if I can use relative path names for in Firebase Cloud Storage or need to use the full url (which could be pretty messy). 
 
 **Link to work:** [MIDevFest Site](https://github.com/donwardpeng/midevfest)*Link to work:** [MIDevFest Site](https://github.com/donwardpeng/midevfest)
+
+### Day 95: July 2, 2019
+##### (Continuing on a new Flutter Project)
+
+**Today's Progress**: For smaller screens, the header with all of it's buttons was too large, thus I replaced it with a side navigation drawer on smaller screens.
+
+**Thoughts**: The cool thing about creating the side navigation drawer - it is the exact same code for the web as what I would use for a mobile app in Flutter. 
+
+**Link to work:** [MIDevFest Site](https://github.com/donwardpeng/midevfest)*Link to work:** [MIDevFest Site](https://github.com/donwardpeng/midevfest)
