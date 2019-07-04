@@ -934,3 +934,12 @@
 **Thoughts**: The cool thing about creating the side navigation drawer - it is the exact same code for the web as what I would use for a mobile app in Flutter. 
 
 **Link to work:** [MIDevFest Site](https://github.com/donwardpeng/midevfest)*Link to work:** [MIDevFest Site](https://github.com/donwardpeng/midevfest)
+
+### Day 96: July 3, 2019
+##### (Continuing on a new Flutter Project)
+
+**Today's Progress**: Dug into the Firebase Cloud Storage documentation and learned about the way URL's are constructed for resources stored there. Based on this I created a helped class to encode a relative path location to a resource to it's Firebase Cloud Storage location. Got this working for 90% of the site now (json, and images). 
+
+**Thoughts**: The URL names used by Firebase Cloud Storage originally confused me due to extra tokens that are appended to the URL. I learned that the tokens are not needed.  
+
+**Link to work:** [MIDevFest Site](https://github.com/donwardpeng/midevfest)*Link to work:** [MIDevFest Site](https://github.com/donwardpeng/midevfest)
