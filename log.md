@@ -943,3 +943,12 @@
 **Thoughts**: The URL names used by Firebase Cloud Storage originally confused me due to extra tokens that are appended to the URL. I learned that the tokens are not needed.  
 
 **Link to work:** [MIDevFest Site](https://github.com/donwardpeng/midevfest)*Link to work:** [MIDevFest Site](https://github.com/donwardpeng/midevfest)
+
+### Day 97: July 4, 2019
+##### (Continuing on a new Flutter Project)
+
+**Today's Progress**: Cleaned up Json for speakers and sessions, and halfway complete with the classes for json_serializable to serialize the Json. 
+
+**Thoughts**: Last thing to complete for the website - the speakers and sessions pages. Going to finish it off before the 100 days is complete :) 
+
+**Link to work:** [MIDevFest Site](https://github.com/donwardpeng/midevfest)*Link to work:** [MIDevFest Site](https://github.com/donwardpeng/midevfest)
