@@ -952,3 +952,12 @@
 **Thoughts**: Last thing to complete for the website - the speakers and sessions pages. Going to finish it off before the 100 days is complete :) 
 
 **Link to work:** [MIDevFest Site](https://github.com/donwardpeng/midevfest)*Link to work:** [MIDevFest Site](https://github.com/donwardpeng/midevfest)
+
+### Day 98: July 5, 2019
+##### (Continuing on a new Flutter Project)
+
+**Today's Progress**: Finished converting all of the Json to Data Objects for speakers and the schedule. This is a bit tricky since for a conference app, speakers and the schedule intermingle in the data structures (ie a speaker has a timeslot with a session). 
+
+**Thoughts**: We will see if I got the data structures right for the speakers and schedule once I start tying them together - trying to avoid to much looping to match speakers to sessions in the codebase when I need to display it all on the screen.
+
+**Link to work:** [MIDevFest Site](https://github.com/donwardpeng/midevfest)*Link to work:** [MIDevFest Site](https://github.com/donwardpeng/midevfest)
