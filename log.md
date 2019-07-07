@@ -961,3 +961,12 @@
 **Thoughts**: We will see if I got the data structures right for the speakers and schedule once I start tying them together - trying to avoid to much looping to match speakers to sessions in the codebase when I need to display it all on the screen.
 
 **Link to work:** [MIDevFest Site](https://github.com/donwardpeng/midevfest)*Link to work:** [MIDevFest Site](https://github.com/donwardpeng/midevfest)
+
+### Day 99: July 7, 2019
+##### (Continuing on a new Flutter Project)
+
+**Today's Progress**: Debugged speaker, session and schedule data into data objects. Refactored some of the contant value code, added the ability for the app to run offline (no Firebase Cloud Storage) and added a loading indicator while loading the page. 
+
+**Thoughts**: Debugging Json that is not correct can be difficult - I need to see if I can add more debugging info for content creators for the site.  
+
+**Link to work:** [MIDevFest Site](https://github.com/donwardpeng/midevfest)*Link to work:** [MIDevFest Site](https://github.com/donwardpeng/midevfest)
