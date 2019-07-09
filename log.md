@@ -979,3 +979,7 @@
 **Thoughts**: While the site is not yet complete, in the past 30 or so days I am really happy with what I have completed considering Flutter for Web is not quite production ready - per the Flutter team. 
 
 **Link to work:** [MIDevFest Site](https://github.com/donwardpeng/midevfest)*Link to work:** [MIDevFest Site](https://github.com/donwardpeng/midevfest)
+
+### Day 101: July 9, 2019
+##### (Taking a month off to focus on completing some online courses for Deep Learning)
+
