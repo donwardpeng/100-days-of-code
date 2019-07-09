@@ -970,3 +970,12 @@
 **Thoughts**: Debugging Json that is not correct can be difficult - I need to see if I can add more debugging info for content creators for the site.  
 
 **Link to work:** [MIDevFest Site](https://github.com/donwardpeng/midevfest)*Link to work:** [MIDevFest Site](https://github.com/donwardpeng/midevfest)
+
+### Day 100: July 8, 2019
+##### (Continuing on a new Flutter Project)
+
+**Today's Progress**: Finish mapping all of the Json data to internal data structures to allow for quick coding of the speaker, sessions and schedule pages - all referenced to each other.
+
+**Thoughts**: While the site is not yet complete, in the past 30 or so days I am really happy with what I have completed considering Flutter for Web is not quite production ready - per the Flutter team. 
+
+**Link to work:** [MIDevFest Site](https://github.com/donwardpeng/midevfest)*Link to work:** [MIDevFest Site](https://github.com/donwardpeng/midevfest)
