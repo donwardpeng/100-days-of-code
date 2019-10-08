@@ -983,3 +983,11 @@
 ### Day 101: July 9, 2019
 ##### (Taking a month off to focus on completing some online courses for Deep Learning)
 
+### Round 2 - Day 0: Oct 7, 2019
+##### (Started a new Flutter Project)
+
+**Today's Progress**: Started a new face detection Flutter project today. Ended up fighting issues with gradle and Flutter upgrades. 
+
+**Thoughts**: More work to be done.
+
+**Link to work:** None yet. 
