@@ -990,4 +990,13 @@
 
 **Thoughts**: More work to be done.
 
-**Link to work:** None yet. 
+**Link to work:** None yet.
+
+### Round 2 - Day 0 Again: Oct 9, 2019
+##### (Started a new Flutter Project for Face Detection)
+
+**Today's Progress**: Fixed all of the issues with gradle and Flutter upgrades. Also got my iOS Simulator to be detected as a device since it was broken. Started scaffolding in the app, and hooking up it up to Firebase. 
+
+**Thoughts**: Restarted the 100 Days since the last two days I could not get started due to life :)
+
+**Link to work:** [Face Detect Git Repo](https://github.com/donwardpeng/flutter-face-detect-)*
