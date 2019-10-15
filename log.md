@@ -1001,11 +1001,20 @@
 
 **Link to work:** [Face Detect Git Repo](https://github.com/donwardpeng/flutter-face-detect-)*
 
-### Round 3 - Day 1 Again: Oct 10, 2019
+### Round 2 - Day 1 Again: Oct 10, 2019
 ##### (Started a new Flutter Project for Face Detection)
 
 **Today's Progress**: Started working on the Face Detection Firebase code and understanding how to use it.
 
 **Thoughts**: It is amazing that MLKit for Flutter is supported to the degree it is. 
+
+**Link to work:** [Face Detect Git Repo](https://github.com/donwardpeng/flutter-face-detect-)*
+
+### Round 2 - Day 0 Again: Oct 14, 2019
+##### (Started a new Flutter Project for Face Detection)
+
+**Today's Progress**: Re-starting the #100DaysOfCode Challenge since I have too busy. I rebuilt my Flutter environment for iOS today. 
+
+**Thoughts**: Success - I am now ready to develop code and have my develop tools in place. 
 
 **Link to work:** [Face Detect Git Repo](https://github.com/donwardpeng/flutter-face-detect-)*
