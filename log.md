@@ -1018,3 +1018,12 @@
 **Thoughts**: Success - I am now ready to develop code and have my develop tools in place. 
 
 **Link to work:** [Face Detect Git Repo](https://github.com/donwardpeng/flutter-face-detect-)*
+
+### Round 2 - Day 1: Oct 15, 2019
+##### (Started a new Flutter Project for Face Detection)
+
+**Today's Progress**: Registered and hooked up a Firebase project to the app. Started to download all of the pod files needed to support face detection using MLKit for iOS. Also reviewing the git repo to understand how the examples.
+
+**Thoughts**: Interesting that you need separate configurations for Android and iOS for MLKit Vision when using Flutter. This is one of the rare times that I have encountered (the other being for Firebase support) that each platform needs special code when using Flutter. 
+
+**Link to work:** [Face Detect Git Repo](https://github.com/donwardpeng/flutter-face-detect-)*
