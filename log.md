@@ -1027,3 +1027,12 @@
 **Thoughts**: Interesting that you need separate configurations for Android and iOS for MLKit Vision when using Flutter. This is one of the rare times that I have encountered (the other being for Firebase support) that each platform needs special code when using Flutter. 
 
 **Link to work:** [Face Detect Git Repo](https://github.com/donwardpeng/flutter-face-detect-)*
+
+### Round 2 - Day 2: Oct 16, 2019
+##### (Started a new Flutter Project for Face Detection)
+
+**Today's Progress**: Added Firebase Android support and MLKit Vision support. 
+
+**Thoughts**: A thing I realized - using Face Detection on the simulator/emulator probably would be programatic with the camera. Thus I added Android support so I can run and debug on my Android phone. 
+
+**Link to work:** [Face Detect Git Repo](https://github.com/donwardpeng/flutter-face-detect-)*
