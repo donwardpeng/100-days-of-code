@@ -1036,3 +1036,12 @@
 **Thoughts**: A thing I realized - using Face Detection on the simulator/emulator probably would be programatic with the camera. Thus I added Android support so I can run and debug on my Android phone. 
 
 **Link to work:** [Face Detect Git Repo](https://github.com/donwardpeng/flutter-face-detect-)*
+
+### Round 2 - Day 3: Oct 17, 2019
+##### (Started a new Flutter Project for Face Detection)
+
+**Today's Progress**: Needed more configuration to support Android on-device face detect. Added the buttons and screen to perform face-detect. Started digging through the code examples to wire it up. 
+
+**Thoughts**: The examples I see all use static images to do face detection on - I need to figure out how to do it on a live camera feed.  
+
+**Link to work:** [Face Detect Git Repo](https://github.com/donwardpeng/flutter-face-detect-)*
