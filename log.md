@@ -1045,3 +1045,12 @@
 **Thoughts**: The examples I see all use static images to do face detection on - I need to figure out how to do it on a live camera feed.  
 
 **Link to work:** [Face Detect Git Repo](https://github.com/donwardpeng/flutter-face-detect-)*
+
+### Round 2 - Day 4: Oct 18, 2019
+##### (Started a new Flutter Project for Face Detection)
+
+**Today's Progress**: More scaffolding and design for the app. Researching how to grab frames from the camera to run face detection on.
+
+**Thoughts**: Getting a better idea how to do face detection using the camera. 
+
+**Link to work:** [Face Detect Git Repo](https://github.com/donwardpeng/flutter-face-detect-)*
