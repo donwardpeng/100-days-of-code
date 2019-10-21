@@ -1054,3 +1054,19 @@
 **Thoughts**: Getting a better idea how to do face detection using the camera. 
 
 **Link to work:** [Face Detect Git Repo](https://github.com/donwardpeng/flutter-face-detect-)*
+
+### Round 2 - Day 4: Oct 19, 2019
+##### (Started a new Flutter Project for Face Detection)
+
+**Today's Progress**: Took the day off.
+
+### Round 2 - Day 5: Oct 20, 2019
+##### (Started a new Flutter Project for Face Detection)
+
+**Today's Progress**: Followed a tutorial to get the Firebase MLKit Vision API to detect faces. Also dug into the source code for the Firebase MLKit face detection API example.  
+
+**Thoughts**: The heavy lifting for face detection is all done by the Firebase MLKit Vision API - it returns bounding boxes, eyes open probabilities and a bunch of other info. Pretty slick. 
+
+**Link to work:** [Face Detect Git Repo](https://github.com/donwardpeng/flutter-face-detect-)*
+
+ 
