@@ -1069,4 +1069,13 @@
 
 **Link to work:** [Face Detect Git Repo](https://github.com/donwardpeng/flutter-face-detect-)*
 
+### Round 2 - Day 6: Oct 21, 2019
+##### (Started a new Flutter Project for Face Detection)
+
+**Today's Progress**: Got face detect to work with images from the Gallery on iOS in the simulator. Working on an Android build issue that needs to be fixed before I can test it. 
+
+**Thoughts**: Once I get Android working, the next steps are to add code to draw bounding boxes around the faces detect using a CustomPainter. 
+
+**Link to work:** [Face Detect Git Repo](https://github.com/donwardpeng/flutter-face-detect-)*
+
  
