@@ -1078,4 +1078,14 @@
 
 **Link to work:** [Face Detect Git Repo](https://github.com/donwardpeng/flutter-face-detect-)*
 
- 
+### Round 2 - Day 7: Oct 22, 2019
+##### (Started a new Flutter Project for Face Detection)
+
+**Today's Progress**: Taught an Intro to Flutter and worked a bit on getting Android working. Not a lot of progress on this yet. 
+
+**Thoughts**: Once I get Android working, the next steps are to add code to draw bounding boxes around the faces detect using a CustomPainter. 
+
+**Link to work:** [Face Detect Git Repo](https://github.com/donwardpeng/flutter-face-detect-)*
+
+### Round 2 - Day 7: Oct 22, 2019
+##### Took the day off. 
