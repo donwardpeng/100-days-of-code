@@ -1087,5 +1087,14 @@
 
 **Link to work:** [Face Detect Git Repo](https://github.com/donwardpeng/flutter-face-detect-)*
 
-### Round 2 - Day 7: Oct 22, 2019
+### Round 2 - Day 7: Oct 23, 2019
 ##### Took the day off. 
+
+### Round 2 - Day 8: Oct 24, 2019
+##### (Started a new Flutter Project for Face Detection)
+
+**Today's Progress**: Got my Android emulator back up and running after totally corrupting it. Still fighting issues with getting an Android build to work - with all of the Flutter apps I have worked on, along with the web, I think I screwed up my Flutter build for Android along the line, since I can not build other Android apps I know have worked in the past. I have more things to try tomorrow.
+
+**Thoughts**: Once i get my Android build working I can start debugging the face detect code. 
+
+**Link to work:** [Face Detect Git Repo](https://github.com/donwardpeng/flutter-face-detect-)*
