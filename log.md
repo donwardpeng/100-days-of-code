@@ -1098,3 +1098,12 @@
 **Thoughts**: Once i get my Android build working I can start debugging the face detect code. 
 
 **Link to work:** [Face Detect Git Repo](https://github.com/donwardpeng/flutter-face-detect-)*
+
+### Round 2 - Day 9: Oct 27, 2019
+##### (Started another new Flutter Project for Face Detection)
+
+**Today's Progress**: Some progress - I determined that it is not my code that is causing my Android project to not compile. I started a totally new project that I could compile for Android, and started adding the needed libraries. The image_picker and camera plugins needed for firebase_ml kit seem to have duplicate dependencies. I think I was able to clean this up, but ran into another issue with building - it appears more crptic. I am going to give it another try tomorrow. I still have some options - one is to use the example from the mlkit repo since it seems to compile and the other is to check out some Medium articles I found about Face Detection.
+
+**Thoughts**: This is the first time I have encountered some major dependency issues with libraries in Flutter. Time to learn to debug them!
+
+**Link to work:** [Face Detect 2 Git Repo](https://github.com/donwardpeng/facedetect2)*
