@@ -1107,3 +1107,12 @@
 **Thoughts**: This is the first time I have encountered some major dependency issues with libraries in Flutter. Time to learn to debug them!
 
 **Link to work:** [Face Detect 2 Git Repo](https://github.com/donwardpeng/facedetect2)*
+
+### Round 2 - Day 10: Oct 28, 2019
+##### (Started another new Flutter Project for Face Detection)
+
+**Today's Progress**: Tried a few more fixes to get the dependencies on my app working. Nothing worked. Started to follow a Medium article I read about to use Face Detect with MLKit. Maybe it will provide a better solution than what I have come up with.
+
+**Thoughts**: Pretty much the same as yesterday -> this is the first time I have encountered some major dependency issues with libraries in Flutter. Time to learn to debug them!
+
+**Link to work:** [Face Detect 2 Git Repo](https://github.com/donwardpeng/facedetect2)*
