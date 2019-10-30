@@ -1116,3 +1116,12 @@
 **Thoughts**: Pretty much the same as yesterday -> this is the first time I have encountered some major dependency issues with libraries in Flutter. Time to learn to debug them!
 
 **Link to work:** [Face Detect 2 Git Repo](https://github.com/donwardpeng/facedetect2)*
+
+### Round 2 - Day 11: Oct 29, 2019
+##### (Started a totally new Flutter Project for Face Detection)
+
+**Today's Progress**: Third time is the charm! Started a new project and got Firebase for Android working. I noticed that the correct version of the gradle plugin for Firebase is 3.2.1, and there is a note not to go any higher.
+
+**Thoughts**: I also read the MLKit for Firebase Medium article I referenced earlier and it is a wash. It was written in July 2018 and a lot has changed since then. I also ran the MLKit example app on the Android emulator and it took awhile to detect faces. It uses version 17 of the library for MLKit, hopefullly version 19 is faster. 
+
+**Link to work:** [The Face Detector Git Repo](https://github.com/donwardpeng/thefacedetector)*
