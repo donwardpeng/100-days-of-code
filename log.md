@@ -1125,3 +1125,12 @@
 **Thoughts**: I also read the MLKit for Firebase Medium article I referenced earlier and it is a wash. It was written in July 2018 and a lot has changed since then. I also ran the MLKit example app on the Android emulator and it took awhile to detect faces. It uses version 17 of the library for MLKit, hopefullly version 19 is faster. 
 
 **Link to work:** [The Face Detector Git Repo](https://github.com/donwardpeng/thefacedetector)*
+
+### Round 2 - Day 12: Nov 1, 2019
+##### (Started a totally new Flutter Project for Face Detection)
+
+**Today's Progress**: Success! I finally got the app to fully compile and run on Android. I sorted out all dependency issues and documented them. Now to debug the app and get the MLKit face detect code to execute on images I provide (both from the camera and the gallery). 
+
+**Thoughts**: After dealing with dependency issues for a few days I realize that MLKit with Flutter can be finicky.
+
+**Link to work:** [The Face Detector Git Repo](https://github.com/donwardpeng/thefacedetector)*
