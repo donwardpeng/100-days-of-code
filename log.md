@@ -1134,3 +1134,12 @@
 **Thoughts**: After dealing with dependency issues for a few days I realize that MLKit with Flutter can be finicky.
 
 **Link to work:** [The Face Detector Git Repo](https://github.com/donwardpeng/thefacedetector)*
+
+### Round 2 - Day 13: Nov 2, 2019
+##### (Started a totally new Flutter Project for Face Detection)
+
+**Today's Progress**: Determined that I need to add a permission handler to allow for the app to open the gallery to allow users to pick a image to scan. Worked on coding this up. 
+
+**Thoughts**: I am not sure why the example app for face detect does not request permissions and still works. I need to dig into this. 
+
+**Link to work:** [The Face Detector Git Repo](https://github.com/donwardpeng/thefacedetector)*
