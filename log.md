@@ -1143,3 +1143,12 @@
 **Thoughts**: I am not sure why the example app for face detect does not request permissions and still works. I need to dig into this. 
 
 **Link to work:** [The Face Detector Git Repo](https://github.com/donwardpeng/thefacedetector)*
+
+### Round 2 - Day 14: Nov 4, 2019
+##### (Started a totally new Flutter Project for Face Detection)
+
+**Today's Progress**: Still working on adding the permission_handler to handle the camera and gallery opening. I determined the reason the sample apps works without handling permissions. It uses an older version of the Image Picker library that took care of it. The version was 0.5.0 and apparently in 0.5.0+6, Image Picker no longer handles the permissions.
+
+**Thoughts**: Back to working to implementing a permission_handler. 
+
+**Link to work:** [The Face Detector Git Repo](https://github.com/donwardpeng/thefacedetector)*
