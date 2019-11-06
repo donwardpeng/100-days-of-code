@@ -1152,3 +1152,12 @@
 **Thoughts**: Back to working to implementing a permission_handler. 
 
 **Link to work:** [The Face Detector Git Repo](https://github.com/donwardpeng/thefacedetector)*
+
+### Round 2 - Day 14.5: Nov 5, 2019
+##### (Started a totally new Flutter Project for Face Detection)
+
+**Today's Progress**: Only got 1/2 hour in today - researching how to use the permission handler and Android permissions. I have not looked at the documentation for Android permissions for quite a while and caught up on the stuff I missed.  
+
+**Thoughts**: Interesting reading up on the specifics on how Android permissions changed with Android 6.0.  
+
+**Link to work:** [The Face Detector Git Repo](https://github.com/donwardpeng/thefacedetector)*
