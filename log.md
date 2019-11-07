@@ -1161,3 +1161,12 @@
 **Thoughts**: Interesting reading up on the specifics on how Android permissions changed with Android 6.0.  
 
 **Link to work:** [The Face Detector Git Repo](https://github.com/donwardpeng/thefacedetector)*
+
+### Round 2 - Day 15: Nov 6, 2019
+##### (Started a totally new Flutter Project for Face Detection)
+
+**Today's Progress**: Success! The image picker from the gallery is running and face detect seems to be working! Need to add code to draw bounding rectangles on faces found.
+
+**Thoughts**: The importance of cleaning the project and deleting old builds was what helped me get this done. With all of the dependencies I have been working with something was messed up with the builds.
+
+**Link to work:** [The Face Detector Git Repo](https://github.com/donwardpeng/thefacedetector)*
