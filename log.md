@@ -1170,3 +1170,12 @@
 **Thoughts**: The importance of cleaning the project and deleting old builds was what helped me get this done. With all of the dependencies I have been working with something was messed up with the builds.
 
 **Link to work:** [The Face Detector Git Repo](https://github.com/donwardpeng/thefacedetector)*
+
+### Round 2 - Day 16: Nov 7, 2019
+##### (Started a totally new Flutter Project for Face Detection)
+
+**Today's Progress**: Now that the face detect ML model is running, I need to add Custom Painter's to draw rectangles on the original image to indicate where faces were found.
+
+**Thoughts**: I need to trace out the FlutterFire MLVision example to fully understand how to do this. Tomorrow's task - pen to paper and drawing it all out.
+
+**Link to work:** [The Face Detector Git Repo](https://github.com/donwardpeng/thefacedetector)*
