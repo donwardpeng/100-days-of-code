@@ -1179,3 +1179,12 @@
 **Thoughts**: I need to trace out the FlutterFire MLVision example to fully understand how to do this. Tomorrow's task - pen to paper and drawing it all out.
 
 **Link to work:** [The Face Detector Git Repo](https://github.com/donwardpeng/thefacedetector)*
+
+### Round 2 - Day 17: Nov 8, 2019
+##### (Started a totally new Flutter Project for Face Detection)
+
+**Today's Progress**: The app now draws rectangles where it detects faces. I also modified the displayed photo since it was filling the screen and messing with the aspect ratio, thus causing a distorted image. I had to also modify and scale the drawn rectangles accordingly.
+
+**Thoughts**: I traced out how the FlutterFire MLVision example works and this help me immensely to make changes for my app. 
+
+**Link to work:** [The Face Detector Git Repo](https://github.com/donwardpeng/thefacedetector)*
