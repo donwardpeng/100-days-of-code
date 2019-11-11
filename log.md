@@ -1188,3 +1188,12 @@
 **Thoughts**: I traced out how the FlutterFire MLVision example works and this help me immensely to make changes for my app. 
 
 **Link to work:** [The Face Detector Git Repo](https://github.com/donwardpeng/thefacedetector)*
+
+### Round 2 - Day 18: Nov 10, 2019
+##### (Started a totally new Flutter Project for Face Detection)
+
+**Today's Progress**: Changed the face detect code to detect landmarks (eyes, ears, nose, etc.). Tried to add a mustashe to each detected face using a CustomPainter, but my first attempt looks more like every detected face has a runny nose. Going to try another tactic to draw a mustashe on each face. 
+
+**Thoughts**: A bit of math is all I need to get this to work.
+
+**Link to work:** [The Face Detector Git Repo](https://github.com/donwardpeng/thefacedetector)*
