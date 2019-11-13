@@ -1197,3 +1197,12 @@
 **Thoughts**: A bit of math is all I need to get this to work.
 
 **Link to work:** [The Face Detector Git Repo](https://github.com/donwardpeng/thefacedetector)*
+
+### Round 2 - Day 19: Nov 20, 2019
+##### (Started a totally new Flutter Project for Face Detection)
+
+**Today's Progress**: Cleaned up the face detect code and got it to draw mustashes on the detected faces.
+
+**Thoughts**: I had to draw out how to draw a mustache on paper to get it coded properly.
+
+**Link to work:** [The Face Detector Git Repo](https://github.com/donwardpeng/thefacedetector)*
