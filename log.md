@@ -1198,11 +1198,20 @@
 
 **Link to work:** [The Face Detector Git Repo](https://github.com/donwardpeng/thefacedetector)*
 
-### Round 2 - Day 19: Nov 20, 2019
+### Round 2 - Day 19: Nov 12, 2019
 ##### (Started a totally new Flutter Project for Face Detection)
 
 **Today's Progress**: Cleaned up the face detect code and got it to draw mustashes on the detected faces.
 
 **Thoughts**: I had to draw out how to draw a mustache on paper to get it coded properly.
+
+**Link to work:** [The Face Detector Git Repo](https://github.com/donwardpeng/thefacedetector)*
+
+### Round 2 - Day 20: Nov 13, 2019
+##### (Started a totally new Flutter Project for Face Detection)
+
+**Today's Progress**: Got the mustache to draw on the detected face with the proper line width, etc. Also started to research how to select the image from the camera as well as what permissions I need to setup in Flutter for iOS to work.
+
+**Thoughts**: Looking in the Firebase ML Vision Library documentation, there is a lot you can do with the Landmarks found on the detected faces. Pretty impressive how in-depth it is!
 
 **Link to work:** [The Face Detector Git Repo](https://github.com/donwardpeng/thefacedetector)*
