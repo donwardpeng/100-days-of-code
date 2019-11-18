@@ -1215,3 +1215,18 @@
 **Thoughts**: Looking in the Firebase ML Vision Library documentation, there is a lot you can do with the Landmarks found on the detected faces. Pretty impressive how in-depth it is!
 
 **Link to work:** [The Face Detector Git Repo](https://github.com/donwardpeng/thefacedetector)*
+
+### Round 2 - Day 21: Nov 15, 2019
+##### (Started a totally new Flutter Project for Face Detection)
+
+*Link to work:** [The Face Detector Git Repo](https://github.com/donwardpeng/thefacedetector)*
+
+### Round 2 - Day 22: Nov 17, 2019
+##### (Started a totally new Flutter Project for Face Detection)
+
+**Today's Progress**: Added scan from camera - needed to update my image picker and camera dependencies since they were an older version that crashed when the image picker used the camera.
+
+**Thoughts**: Still want to add a new Image library from Dart that I found - it should simplify my code quite a bit.
+
+**Link to work:** [The Face Detector Git Repo](https://github.com/donwardpeng/thefacedetector)*
+
