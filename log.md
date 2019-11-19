@@ -1230,3 +1230,12 @@
 
 **Link to work:** [The Face Detector Git Repo](https://github.com/donwardpeng/thefacedetector)*
 
+### Round 2 - Day 23: Nov 18, 2019
+##### (Started a totally new Flutter Project for Face Detection)
+
+**Today's Progress**: Dug into a lower level between Flutter and native code - the platform specific code for Android and iOS. This is the layer of code that Flutter plugins use, and I believe the ML code uses. 
+
+**Thoughts**: Using the platform specific code, I believe is the way to execute custom ML models in Flutter apps.
+
+**Link to work:** [The Face Detector Git Repo](https://github.com/donwardpeng/thefacedetector)*
+
