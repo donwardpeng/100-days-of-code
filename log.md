@@ -1239,3 +1239,12 @@
 
 **Link to work:** [The Face Detector Git Repo](https://github.com/donwardpeng/thefacedetector)*
 
+### Round 2 - Day 24: Nov 19, 2019
+##### (Started a totally new Flutter Project for Face Detection)
+
+**Today's Progress**: On a separate project got a custom model to run using the platform specific code for Android. Dug into TFLite for Android and how to load a model, run inference on it, and intrepret the output. The hardest part is understanding the input and output tensors - a decent amount of log statements were needed. 
+
+**Thoughts**: It is impressive that custom models can be used within a Flutter app.
+
+**Link to work:** [The Face Detector Git Repo](https://github.com/donwardpeng/thefacedetector)*
+
