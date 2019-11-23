@@ -1248,3 +1248,13 @@
 
 **Link to work:** [The Face Detector Git Repo](https://github.com/donwardpeng/thefacedetector)*
 
+### Round 2 - Day 25: Nov 22, 2019
+##### (A new direction - working on GCP Associate Certification)
+
+**Today's Progress**: Now that I have a working demo of the Flutter Face Detector, I am pivoting for a few weeks to learn more about Google Cloud Platform. Today I learned some of the intricacies of how to use GCP compute instances. 
+
+**Thoughts**: It is kind of overwhelming the number of GCP services that exist. 
+
+**Link to work:** [GCP Learnings](https://github.com/donwardpeng/gcp_learnings.git)*
+
+
