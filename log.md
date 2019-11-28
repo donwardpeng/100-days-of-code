@@ -1257,4 +1257,13 @@
 
 **Link to work:** [GCP Learnings](https://github.com/donwardpeng/gcp_learnings.git)*
 
+### Round 2 - Day 0: Nov 27, 2019
+##### (A new direction - working on GCP Associate Certification)
+
+**Today's Progress**: 100 Days of Cloud  is what I am starting. Today I learned how to use the gcloud interactive shell, learned how to setup and debug startup scripts for new compute instances. I also learned how to pass in metadata to the startup script. 
+
+**Thoughts**: Cool stuff watching VM's startup and being able to use the 'Create Similar' button to spin up VM's as needed.
+
+**Link to work:** [GCP Learnings](https://github.com/donwardpeng/gcp_learnings.git)*
+
 
