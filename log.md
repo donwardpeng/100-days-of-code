@@ -1266,4 +1266,12 @@
 
 **Link to work:** [GCP Learnings](https://github.com/donwardpeng/gcp_learnings.git)*
 
+### Round 2 - Day 1: Nov 29, 2019
+##### (A new direction - working on GCP Associate Certification)
+
+**Today's Progress**: Continued to learn more about GCE, the Metadata Service for GCE, StackDriver, and how to monitor a GCE instance from the Google Cloud Console. Ran through an excellent exercise illustrating how the GCE Contol Plane talks to the HyperVisor with it's Metadata Service and the actual Virtual Machine to get everything started.
+
+**Thoughts**: Learning how GCP uses control planes and it's API's communicate together sheds a lot of light on how it all works behind the scenes.
+
+**Link to work:** [GCP Learnings](https://github.com/donwardpeng/gcp_learnings.git)*
 
